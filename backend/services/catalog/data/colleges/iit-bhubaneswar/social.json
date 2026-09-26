@@ -1,0 +1,278 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "official": [
+    {
+      "platform": "instagram",
+      "handle": "iitbhubaneswar",
+      "url": "https://www.instagram.com/iitbhubaneswar/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/",
+          "title": "IIT Bhubaneswar (official website footer)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "x",
+      "handle": "iitbbs",
+      "url": "https://twitter.com/iitbbs",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/",
+          "title": "IIT Bhubaneswar (official website footer)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "iitbbs",
+      "url": "https://www.facebook.com/iitbbs/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/",
+          "title": "IIT Bhubaneswar (official website footer)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "indian-institute-of-technology-bhubaneswar",
+      "url": "https://www.linkedin.com/school/indian-institute-of-technology-bhubaneswar/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/",
+          "title": "IIT Bhubaneswar (official website footer)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "youtube",
+      "handle": "UC_zUJNlSZjHyg1P_KPrY0Zg",
+      "url": "https://www.youtube.com/channel/UC_zUJNlSZjHyg1P_KPrY0Zg",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/",
+          "title": "IIT Bhubaneswar (official website footer)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "SG.IITBhubaneswar",
+      "url": "https://www.facebook.com/SG.IITBhubaneswar/",
+      "owner": "Students' Gymkhana",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "pravaah_iitbbs",
+      "url": "https://www.instagram.com/pravaah_iitbbs/",
+      "owner": "Pravaah",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "pravaah.iitbbs",
+      "url": "https://www.facebook.com/pravaah.iitbbs/",
+      "owner": "Pravaah",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "ashvamedha_iitbbs",
+      "url": "https://www.instagram.com/ashvamedha_iitbbs/",
+      "owner": "Ashvamedha",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "AshvamedhaIITBBS",
+      "url": "https://www.facebook.com/AshvamedhaIITBBS/",
+      "owner": "Ashvamedha",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "wissenaire.iitbbs",
+      "url": "https://www.instagram.com/wissenaire.iitbbs/",
+      "owner": "Wissenaire",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "wissenaireiitbbs",
+      "url": "https://www.facebook.com/wissenaireiitbbs/",
+      "owner": "Wissenaire",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "almafiesta.iitbbs",
+      "url": "https://www.instagram.com/almafiesta.iitbbs/",
+      "owner": "Alma Fiesta",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "almafiesta",
+      "url": "https://www.facebook.com/almafiesta/",
+      "owner": "Alma Fiesta",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "centrepreneurship",
+      "url": "https://www.instagram.com/centrepreneurship/",
+      "owner": "E-Cell",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests (E-Summit)",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "centrepreneurship",
+      "url": "https://www.facebook.com/centrepreneurship/",
+      "owner": "E-Cell",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests (E-Summit)",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "creators": []
+}

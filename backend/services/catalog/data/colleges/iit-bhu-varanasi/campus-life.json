@@ -1,0 +1,762 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "summary": {
+    "text": "Student life at IIT (BHU) Varanasi runs through the Gymkhana, which spreads activities across five councils covering culture, sports, science and technology, film and media, and social service. Each session builds toward flagship events — the techno-management fest Technex, the socio-cultural fest Kashiyatra, and the sports meet Spardha — alongside a steady calendar of smaller club-run workshops, talks and competitions.",
+    "sources": [
+      {
+        "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+        "title": "DOSA - Councils",
+        "publisher": "IIT (BHU) Varanasi",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ],
+    "asOf": null
+  },
+  "clubs": [
+    {
+      "name": "Club of Programmers (COPS)",
+      "category": "technical",
+      "note": "Coding club under the Science & Technology Council; runs programming contests, workshops and talks.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Western Music Club",
+      "category": "cultural",
+      "note": "One of the seven Cultural Council clubs; open to students who play Western instruments or sing Western vocal styles.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Indian Music Club",
+      "category": "cultural",
+      "note": "Cultural Council club for classical and folk Indian vocal and instrumental music.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Fine Arts Club",
+      "category": "cultural",
+      "note": "Cultural Council club for painting, sketching and visual-arts practice; also active on Instagram.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Dance Club",
+      "category": "cultural",
+      "note": "Cultural Council club covering classical and contemporary dance forms performed at campus events.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Dramatics Club",
+      "category": "cultural",
+      "note": "Cultural Council theatre club; stages plays and skits through the year.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "The Literary Club",
+      "category": "literary",
+      "note": "Cultural Council club for creative writing, debate and public-speaking practice.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Quiz Club",
+      "category": "literary",
+      "note": "Cultural Council club that runs campus quizzing events and trains teams for outside competitions.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/cultural-council/",
+          "title": "Cultural Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Design Club",
+      "category": "media",
+      "note": "One of six clubs under the Film and Media Council, focused on graphic and visual design.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/sdc/student_bodies",
+          "title": "SDC - Student Led Bodies",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Photography Club",
+      "category": "media",
+      "note": "Film and Media Council club covering campus event and portrait photography.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/sdc/student_bodies",
+          "title": "SDC - Student Led Bodies",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Cinematography Club",
+      "category": "media",
+      "note": "Film and Media Council club focused on short films and video production.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/sdc/student_bodies",
+          "title": "SDC - Student Led Bodies",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Animation Club",
+      "category": "media",
+      "note": "Film and Media Council club for 2D/3D animation and motion graphics work.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/sdc/student_bodies",
+          "title": "SDC - Student Led Bodies",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Media Club",
+      "category": "media",
+      "note": "Film and Media Council club handling campus news coverage and content.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/sdc/student_bodies",
+          "title": "SDC - Student Led Bodies",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Social Outreach Club",
+      "category": "social",
+      "note": "Film and Media Council club that documents and supports the institute's outreach and community activities.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/sdc/student_bodies",
+          "title": "SDC - Student Led Bodies",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Kashi Utkarsh Club",
+      "category": "social",
+      "note": "Social Service Council club focused on outreach projects in and around Varanasi.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Health and Hygiene Club",
+      "category": "social",
+      "note": "Social Service Council club running health-awareness and hygiene-related campus and community drives.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Social Projects Club",
+      "category": "social",
+      "note": "Social Service Council club that runs longer-term community and welfare projects.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Sahyog",
+      "category": "social",
+      "note": "Social Service Council's educational-awareness club, working with underprivileged children near campus.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Entrepreneurship Cell (E-Cell)",
+      "category": "entrepreneurship",
+      "note": "Student body that runs startup and entrepreneurship events, talks and competitions on campus.",
+      "url": "https://www.instagram.com/ecelliitbhu/",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/ecelliitbhu/",
+          "title": "E-Cell IIT BHU (Instagram)",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "fests": [
+    {
+      "name": "Technex",
+      "type": "technical",
+      "month": "March",
+      "footfall": null,
+      "url": "https://www.technex.in/",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://internshala.com/competitions/technex26-iit-bhu-varanasi/",
+          "title": "Technex'26 - IIT (BHU) Varanasi",
+          "publisher": "Internshala",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Kashiyatra",
+      "type": "cultural",
+      "month": "January",
+      "footfall": 90000,
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kashiyatra",
+          "title": "Kashiyatra",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Spardha",
+      "type": "sports",
+      "month": null,
+      "footfall": 40000,
+      "url": "https://spardha.org.in/",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhufoundation.org/spardha-2025-where-passion-met-perfection/",
+          "title": "Spardha (2025) - Where Passion Met Perfection",
+          "publisher": "IIT (BHU) Foundation",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2025"
+    },
+    {
+      "name": "FMC Weekend",
+      "type": "other",
+      "month": null,
+      "footfall": null,
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Jagriti",
+      "type": "other",
+      "month": null,
+      "footfall": null,
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sports": [
+    {
+      "facility": "Athletics",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Badminton",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Basketball",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Boxing",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Carrom",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Chess",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Cricket",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Football",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Handball",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Hockey",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Kabaddi",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Kho-Kho",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Lawn Tennis",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Powerlifting",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Squash",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Taekwondo",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Table Tennis",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Volleyball",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Weightlifting",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/dosa/councils",
+          "title": "DOSA - Councils",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Aquatics / Swimming Pool",
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/sports-council/",
+          "title": "Sports Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Open Gymnasium",
+      "sources": [
+        {
+          "url": "https://iitbhulife.wordpress.com/sports-council/",
+          "title": "Sports Council - Inside IIT BHU",
+          "publisher": "Inside IIT BHU (student blog)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    }
+  ]
+}

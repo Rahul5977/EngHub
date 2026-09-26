@@ -1,0 +1,194 @@
+{
+  "instituteId": "iit-delhi",
+  "items": [
+    {
+      "q": "When was IIT Delhi founded, and where is its campus located?",
+      "a": "The institute traces back to 1960, when it was registered as the College of Engineering and Technology, taking in its first students the following year and holding a formal inauguration in August 1961. Parliament upgraded it to full IIT status under a 1963 amendment act. Its main campus sits on roughly 325 acres in Hauz Khas, South Delhi, close to landmarks like the Qutb Minar.",
+      "asOf": "1963",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "How does admission into IIT Delhi's B.Tech program work?",
+      "a": "Undergraduate seats at IIT Delhi are filled the standard IIT way: a candidate first clears JEE Advanced, then gets a seat through JoSAA's centralised counselling round along with every other IIT. There's no separate entrance test run by the institute itself for the B.Tech; the JoSAA process is the only route in.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://josaa.nic.in/",
+          "title": "Joint Seat Allocation Authority (JoSAA)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What entrance routes lead to IIT Delhi's postgraduate and other programs?",
+      "a": "Beyond JEE Advanced for the B.Tech, IIT Delhi draws postgraduate students through GATE for its M.Tech programs and JAM for the M.Sc. programs, while its design courses go through CEED. The MBA run by the Department of Management Studies is filled via CAT, and PhD admission runs on the institute's own research-admission cycle for each department.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "How many departments and specialised schools does IIT Delhi have?",
+      "a": "The institute runs 16 core academic departments, covering everything from Applied Mechanics to Textile and Fibre Engineering. Sitting alongside these are several newer, often donor-funded schools, including the Bharti School of Telecommunication Technology and Management, the Kusuma School of Biological Sciences, the Yardi School of Artificial Intelligence, and schools of Public Policy and Interdisciplinary Research.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Where does IIT Delhi stand in national and global rankings?",
+      "a": "In NIRF 2024, IIT Delhi placed 4th overall among all Indian institutions and 2nd among engineering colleges specifically. Internationally, QS's 2027 World University Rankings placed it around 118th globally, which the institute cited as the top spot among Indian universities in that edition — a marked climb from the low-to-mid 100s the QS Asia rankings had shown it at a few years earlier.",
+      "asOf": "2024",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Does IIT Delhi have any campuses besides the main Hauz Khas site?",
+      "a": "Yes, it has been expanding beyond South Delhi. A Sonipat campus in Haryana opened in 2018, built mainly for executive education and startup incubation with room for around a hundred ventures. A Jhajjar site runs a joint biomedical research park with AIIMS Delhi, and in mid-2023 the institute signed an agreement to set up its first campus abroad, in Abu Dhabi.",
+      "asOf": "2023",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What are IIT Delhi's best-known annual festivals?",
+      "a": "Rendezvous is the big cultural festival, a four-day event every October that has run since the mid-1970s and now pulls in thousands of participants along with performers from across the country and abroad. Tryst is the technical counterpart, billed as one of north India's larger science-and-technology festivals, packing in dozens of competitions, talks and management events over a few days.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "How large is the student body at IIT Delhi?",
+      "a": "Going by the figures the institute disclosed for NIRF 2024, total enrolment was around 12,500 students: roughly 4,970 in undergraduate programs, 3,570 in postgraduate programs, and about 4,000 pursuing a PhD. That doctoral share is unusually large relative to the UG intake, reflecting how much of the institute's activity is research-driven. Faculty strength was reported at close to 690.",
+      "asOf": "2024",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Does IIT Delhi actively support student startups?",
+      "a": "It does, and has for a while. The Technology Business Incubation Unit has been backing campus ventures since 2000, the student-run Entrepreneurship Development Cell organises its own programming through the year, and the newer Sonipat campus was partly built as a dedicated incubation space with capacity for close to a hundred startups at a time.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What kind of student clubs and technical societies operate at IIT Delhi?",
+      "a": "Student life includes a long-running ACM Student Chapter (active since 2002 and internationally recognised for its programming-contest results), a Robotics Club, an Automobile Club that builds vehicles for competitions like Formula SAE and Mini Baja, and the Entrepreneurship Development Cell, alongside numerous smaller interest groups spanning technical, cultural and literary pursuits.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Is IIT Delhi known for producing prominent entrepreneurs and public figures?",
+      "a": "It has a reputation for that, going back decades. Its graduates include founders behind major Indian internet and technology companies, senior executives at global tech firms, an economist who went on to lead the Reserve Bank of India, and figures in public service, policy, writing and film — a spread that reflects how broadly its alumni have moved beyond core engineering roles.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    }
+  ]
+}

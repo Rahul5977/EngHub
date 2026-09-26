@@ -1,0 +1,181 @@
+{
+  "instituteId": "iit-delhi",
+  "official": [
+    {
+      "platform": "x",
+      "handle": "iitdelhi",
+      "url": "https://twitter.com/iitdelhi",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "Home Page: IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "iitdelhi",
+      "url": "https://linkedin.com/school/iitdelhi/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "Home Page: IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "IITDelhi",
+      "url": "https://www.facebook.com/IITDelhi/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "Home Page: IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "iitdelhi",
+      "url": "https://www.instagram.com/iitdelhi/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/iitdelhi/",
+          "title": "IIT Delhi (@iitdelhi) - Instagram",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "brcaiitd",
+      "url": "https://instagram.com/brcaiitd",
+      "owner": "BRCA (Cultural Board)",
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/",
+          "title": "BRCA - Board for Recreational and Creative Activities",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "brca",
+      "url": "https://linkedin.com/brca",
+      "owner": "BRCA (Cultural Board)",
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/",
+          "title": "BRCA - Board for Recreational and Creative Activities",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "cultureIITD",
+      "url": "https://facebook.com/cultureIITD",
+      "owner": "BRCA (Cultural Board)",
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/",
+          "title": "BRCA - Board for Recreational and Creative Activities",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "tryst.iitd",
+      "url": "https://www.instagram.com/tryst.iitd/",
+      "owner": "Techfest (Tryst)",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/tryst.iitd/",
+          "title": "TRYST, IIT Delhi (@tryst.iitd) - Instagram",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "creators": [
+    {
+      "platform": "instagram",
+      "handle": "dhairya_sandhyana",
+      "url": "https://www.instagram.com/dhairya_sandhyana/",
+      "followerBand": "100k-500k",
+      "contentType": "academics",
+      "affiliation": "alumni",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/dhairya_sandhyana/",
+          "title": "Dhairya Sandhyana (@dhairya_sandhyana) - Instagram",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "youtube",
+      "handle": "@Rohitshawiitd",
+      "url": "https://www.youtube.com/@Rohitshawiitd",
+      "followerBand": "100k-500k",
+      "contentType": "academics",
+      "affiliation": "student",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/@Rohitshawiitd/about",
+          "title": "Rohit Shaw [IITD] - YouTube",
+          "publisher": "YouTube",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    }
+  ]
+}

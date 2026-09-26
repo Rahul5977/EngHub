@@ -1,0 +1,291 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "departments": [
+    {
+      "name": "School of Infrastructure",
+      "programs": [
+        { "degree": "B.Tech", "name": "Civil Engineering", "durationYears": 4, "intake": 105 },
+        { "degree": "Dual Degree", "name": "B.Tech Civil Engineering + M.Tech (Environmental / Structural / Transportation Engineering)", "durationYears": 5, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Infrastructure; Civil Engineering B.Tech and Dual Degree table)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhubaneswar; Civil Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "School of Electrical and Computer Sciences",
+      "programs": [
+        { "degree": "B.Tech", "name": "Computer Science and Engineering", "durationYears": 4, "intake": 84 },
+        { "degree": "B.Tech", "name": "Electrical Engineering", "durationYears": 4, "intake": 76 },
+        { "degree": "B.Tech", "name": "Electronics and Communication Engineering", "durationYears": 4, "intake": 57 },
+        { "degree": "Dual Degree", "name": "B.Tech Computer Science and Engineering + M.Tech Computer Science and Engineering", "durationYears": 5, "intake": null },
+        { "degree": "Dual Degree", "name": "B.Tech Electrical Engineering + M.Tech Power Electronics and Drives", "durationYears": 5, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Electrical and Computer Sciences; CSE, EE, ECE B.Tech and Dual Degree table)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhubaneswar; CSE, EE, ECE rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "School of Basic Sciences",
+      "programs": [
+        { "degree": "B.Tech", "name": "Engineering Physics", "durationYears": 4, "intake": 20 },
+        { "degree": "B.Tech", "name": "Mathematics and Computing", "durationYears": 4, "intake": 20 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Basic Sciences; Engineering Physics, Mathematics and Computing B.Tech)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhubaneswar; Engineering Physics, Mathematics and Computing rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "School of Mechanical Sciences",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mechanical Engineering", "durationYears": 4, "intake": 105 },
+        { "degree": "Dual Degree", "name": "B.Tech Mechanical Engineering + M.Tech (Manufacturing / Mechanical Systems Design / Thermal Science and Engineering)", "durationYears": 5, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Mechanical Sciences; Mechanical Engineering B.Tech and Dual Degree table)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhubaneswar; Mechanical Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "School of Minerals, Metallurgical and Materials Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Metallurgical and Materials Engineering", "durationYears": 4, "intake": 35 },
+        { "degree": "Dual Degree", "name": "B.Tech Metallurgical Engineering + M.Tech Metallurgical and Materials Engineering", "durationYears": 5, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Minerals, Metallurgical and Materials Engineering; B.Tech and Dual Degree table)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhubaneswar; Metallurgical and Materials Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "School of Earth, Ocean and Climate Sciences",
+      "programs": [],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Earth, Ocean and Climate Sciences; no UG B.Tech programme, PG/PhD only)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "School of Humanities, Social Sciences and Management",
+      "programs": [],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (School of Humanities, Social Sciences and Management; no UG B.Tech programme)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "B.Sc.-B.Ed. Integrated Teacher Education Programme",
+      "programs": [
+        { "degree": "B.Sc.-B.Ed.", "name": "Economics", "durationYears": 4, "intake": null },
+        { "degree": "B.Sc.-B.Ed.", "name": "Mathematics", "durationYears": 4, "intake": null },
+        { "degree": "B.Sc.-B.Ed.", "name": "Physics", "durationYears": 4, "intake": null },
+        { "degree": "B.Sc.-B.Ed.", "name": "Chemistry", "durationYears": 4, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (B.Sc.-B.Ed. ITEP: Economics, Mathematics, Physics, Chemistry tracks)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "facultyCount": {
+    "value": 223,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhubaneswar",
+        "title": "Indian Institute of Technology Bhubaneswar - Wikipedia (infobox: academic staff 223)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "curriculumHighlights": [
+    {
+      "text": "Teaching and research sit under seven interdisciplinary schools rather than conventional single-subject departments, so B.Tech branches like Engineering Physics and Mathematics and Computing share a School of Basic Sciences with the institute's science faculty.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (seven schools; Basic Sciences houses Engineering Physics and Mathematics and Computing)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "Five-year dual-degree tracks pair a B.Tech with an M.Tech specialisation in the same school - Civil, Computer Science, Electrical, Mechanical and Metallurgical Engineering all offer one - letting a student exit with both degrees in one extra year.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (Dual Degree Programmes table: Civil, CSE, EE, ME, Metallurgical Engineering)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "IIT Bhubaneswar became the first IIT to give credit for Odissi, a classical Indian dance form, as part of a B.Tech elective, an example of the humanities electives it pairs with core engineering study.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhubaneswar",
+          "title": "Indian Institute of Technology Bhubaneswar - Wikipedia (first IIT to introduce Odissi dance as a credit-bearing B.Tech subject, 2015)",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2015",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2015"
+    },
+    {
+      "text": "A B.Sc.-B.Ed. Integrated Teacher Education Programme, aligned with NEP 2020, trains undergraduates as subject teachers across Economics, Mathematics, Physics and Chemistry alongside the engineering B.Tech intake.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+          "title": "Academics - IIT Bhubaneswar (B.Sc.-B.Ed. ITEP programme listing)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "research": {
+    "note": "Research spans the seven schools, including a dedicated School of Earth, Ocean and Climate Sciences that is uncommon among IITs. The institute funds work through sponsored research, consultancy and technology-transfer income as part of its stated economic-sustainability goal, and PhD scholars are admitted year-round across all schools rather than in a single annual cycle.",
+    "phdCount": 559,
+    "sources": [
+      {
+        "url": "https://www.iitbbs.ac.in/index.php/home/about/",
+        "title": "About IIT Bhubaneswar (strategic goals: research expansion, sponsored research/consultancy/technology-transfer income)",
+        "publisher": "IIT Bhubaneswar",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitbbs.ac.in/index.php/home/academics/admission/",
+        "title": "Admission - IIT Bhubaneswar (Ph.D Round the Year Admission Now Open across schools)",
+        "publisher": "IIT Bhubaneswar",
+        "accessedOn": "2026-09-16",
+        "asOf": "2026",
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhubaneswar",
+        "title": "Indian Institute of Technology Bhubaneswar - Wikipedia (infobox: doctoral students 559)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  }
+}

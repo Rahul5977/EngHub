@@ -1,0 +1,483 @@
+{
+  "instituteId": "iit-delhi",
+  "departments": [
+    {
+      "name": "Applied Mechanics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Engineering and Computational Mechanics", "durationYears": 4, "intake": 40 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Biochemical Engineering and Biotechnology",
+      "programs": [
+        { "degree": "B.Tech", "name": "Biotechnology and Biochemical Engineering", "durationYears": 4, "intake": 60 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Chemical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Chemical Engineering", "durationYears": 4, "intake": 75 },
+        { "degree": "Dual Degree", "name": "Chemical Engineering (B.Tech + M.Tech)", "durationYears": 5, "intake": 46 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Chemistry",
+      "programs": [
+        { "degree": "B.S.", "name": "Chemistry", "durationYears": 4, "intake": 40 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Civil & Environmental Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Civil Engineering", "durationYears": 4, "intake": 110 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Computer Science and Engineering", "durationYears": 4, "intake": 99 },
+        { "degree": "Dual Degree", "name": "Computer Science and Engineering (B.Tech + M.Tech)", "durationYears": 5, "intake": 37 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.cse.iitd.ac.in",
+          "title": "Department of Computer Science and Engineering",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Design",
+      "programs": [
+        { "degree": "B.Tech", "name": "Design", "durationYears": 4, "intake": 20 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Electrical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electrical Engineering", "durationYears": 4, "intake": 110 },
+        { "degree": "B.Tech", "name": "Electrical Engineering (Power and Automation)", "durationYears": 4, "intake": 54 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Energy Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Energy Engineering", "durationYears": 4, "intake": 40 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Materials Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Materials Engineering", "durationYears": 4, "intake": 40 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mathematics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mathematics and Computing", "durationYears": 4, "intake": 89 },
+        { "degree": "Dual Degree", "name": "Mathematics and Computing (B.Tech + M.Tech)", "durationYears": 5, "intake": 33 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mechanical Engineering", "durationYears": 4, "intake": 85 },
+        { "degree": "B.Tech", "name": "Production and Industrial Engineering", "durationYears": 4, "intake": 83 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Physics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Engineering Physics", "durationYears": 4, "intake": 63 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Textile and Fibre Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Textile Technology", "durationYears": 4, "intake": 85 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/departments.php",
+          "title": "Departments",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    }
+  ],
+  "facultyCount": {
+    "value": 687,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+        "title": "Indian Institute of Technology Delhi (infobox academic staff figure)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": "2024",
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": "2024"
+  },
+  "curriculumHighlights": [
+    {
+      "text": "B.Tech./B.S. degrees need 142-155 credits plus 8 non-graded units across Basic Sciences, General Engineering, Departmental Core/Elective, Open Category and Humanities; B.Des needs 143 credits, and the B.Tech+M.Tech dual degree needs 178-200 credits.",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf",
+          "title": "Courses of Study 2025-26 — Undergraduate Programme Rules",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "text": "Every undergraduate must also clear 8 non-graded units: Life Skills workshops, Language and Writing Skills exercises, one unit of NCC/NSO/NSS, and Design & Practical Experience earned through internships, co-curricular projects, or hands-on courses.",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf",
+          "title": "Courses of Study 2025-26 — Undergraduate Programme Rules",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "text": "Branch change is a one-time option at the end of first year: CGPA above 8.0 (General/OBC/EWS) or 7.0 (SC/ST/PwD), all first-year credits cleared, and for the Design branch a qualifying UCEED score; transfers are capped near 15% of the target branch's sanctioned strength.",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf",
+          "title": "Courses of Study 2025-26 — Undergraduate Programme Rules",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "text": "Strong students who register for extra credits can add a Minor/Interdisciplinary Area Specialization, a Departmental Specialization (about 20 credits in a focus area), or graduate with Honours (18 extra credits); each is recorded on the degree.",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf",
+          "title": "Courses of Study 2025-26 — Undergraduate Programme Rules",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "text": "An early-exit ladder lets students leave with a Certificate of IIT Delhi (34 credits), an Associate of IIT Delhi (72 credits), or an Intermediate B.Tech (108 credits) before completing the full degree; it applies to both B.Tech and dual-degree entrants.",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf",
+          "title": "Courses of Study 2025-26 — Undergraduate Programme Rules",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "text": "Minimum registered duration is 8 semesters for B.Tech/B.Des/B.S. and 10 for the dual degree, extendable to 12 or 14 respectively, with a further two-semester slow-paced track available to students who clear fewer credits in their first year.",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/uploads/UG%20Programme%20Rules/CoS-02025-26__UG-Programme-Rules__03-02-2026.pdf",
+          "title": "Courses of Study 2025-26 — Undergraduate Programme Rules",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    }
+  ],
+  "research": {
+    "note": "IIT Delhi holds Institution of Eminence status and runs eleven research centres - spanning atmospheric sciences, biomedical engineering, automotive research and educational technology - alongside six specialised schools covering artificial intelligence, biological sciences, information technology, interdisciplinary research, public policy and telecom technology. As of 2024 it had roughly 4,000 students in doctoral programmes out of about 12,500 students overall, taught by close to 690 faculty.",
+    "phdCount": 4004,
+    "sources": [
+      {
+        "url": "https://home.iitd.ac.in/about.php",
+        "title": "About IIT Delhi (centres and schools)",
+        "publisher": "IIT Delhi",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+        "title": "Indian Institute of Technology Delhi (student/faculty counts)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": "2024",
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": "2024"
+  }
+}

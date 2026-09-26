@@ -1,0 +1,499 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "summary": {
+    "text": "Extracurricular life at IIT Bhubaneswar runs through the Students' Gymkhana, organised into a Technical Council, a Socio-Cultural Council, a Sports Council and an Entrepreneurship Cell, each backing its own set of clubs and societies. Pravaah, a combined sports-technical-cultural fest, now anchors the yearly calendar alongside the sports-focused Ashvamedha, while earlier flagship events such as Alma Fiesta (socio-cultural) and Wissenaire (techno-management) remain part of the institute's fest history. The Student Activity Center hosts courts, a gym and a swimming pool for the campus's day-to-day sporting life at Argul.",
+    "sources": [
+      {
+        "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+        "title": "Students' Gymkhana - Fests",
+        "publisher": "IIT Bhubaneswar Gymkhana",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/",
+        "title": "Students' Life",
+        "publisher": "IIT Bhubaneswar",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ],
+    "asOf": null
+  },
+  "clubs": [
+    {
+      "name": "Robotics and Intelligent Systems Club (RISC)",
+      "category": "technical",
+      "note": "Technical Council club building robots; runs workshops and organises the robotics events (Yanthrix) at Wissenaire.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/technical.php",
+          "title": "Technical Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Web and Design Society (WebnD)",
+      "category": "technical",
+      "note": "Technical Council society that builds and designs the institute's websites and club branding; runs web-dev workshops.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/technical.php",
+          "title": "Technical Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Neuromancers, The Programming Society",
+      "category": "technical",
+      "note": "Technical Council coding society; runs programming, app-dev and cloud-computing workshops and competitions.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/technical.php",
+          "title": "Technical Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Nakshatra, The Astronomy Club",
+      "category": "technical",
+      "note": "Technical Council club for observational astronomy; uses campus telescopes and publishes a newsletter.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/technical.php",
+          "title": "Technical Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Society of Finance, Economics and Business (FEBS)",
+      "category": "entrepreneurship",
+      "note": "Technical Council society promoting financial literacy and business/economics thinking among students.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/technical.php",
+          "title": "Technical Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Kalakriti, The Fine Arts Society",
+      "category": "cultural",
+      "note": "Socio-Cultural Council society for painting and visual art; decorates campus for festivals such as Diwali.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "D Groovers, The Dance Society",
+      "category": "cultural",
+      "note": "Socio-Cultural Council dance society; runs a dance production each year and competes at inter-collegiate events.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "The Fourth Wall, The Dramatics Society",
+      "category": "cultural",
+      "note": "Socio-Cultural Council theatre society; stages plays at most institute events and at inter-collegiate festivals.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Aaroh, The Music Society",
+      "category": "cultural",
+      "note": "Socio-Cultural Council music society; teaches instruments and vocals and stages a production each semester.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Panacea, The English Literary Society",
+      "category": "literary",
+      "note": "Part of the Socio-Cultural Council's Literary Society; builds students' English communication and writing skills.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Abhivyakti, The Hindi Literary Society",
+      "category": "literary",
+      "note": "Part of the Socio-Cultural Council's Literary Society; builds students' Hindi communication and writing skills.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Quiz Society",
+      "category": "literary",
+      "note": "Part of the Socio-Cultural Council's Literary Society; runs campus quizzes linking classroom theory to general knowledge.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Cinewave, The Cinematics Society",
+      "category": "media",
+      "note": "Socio-Cultural Council filmmaking society; produces short films, documentaries and ads for national competitions.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Souls for Solace, The Social Welfare Society",
+      "category": "social",
+      "note": "Socio-Cultural Council welfare society; runs blood donation camps and donation drives with partner NGOs.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "CLIX, The Photography Society",
+      "category": "media",
+      "note": "Socio-Cultural Council photography society; documents institute events and teaches photography and editing.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/cultural.php",
+          "title": "Socio-Cultural Council",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Entrepreneurship Cell (E-Cell)",
+      "category": "entrepreneurship",
+      "note": "Runs the annual E-Summit and campus startup events; connects students with investors and founders.",
+      "url": "https://www.instagram.com/centrepreneurship/",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/",
+          "title": "Students' Life",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests (E-Summit)",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "fests": [
+    {
+      "name": "Pravaah",
+      "type": "other",
+      "month": null,
+      "footfall": null,
+      "url": "https://www.pravaah.org/",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Ashvamedha",
+      "type": "sports",
+      "month": null,
+      "footfall": null,
+      "url": "https://www.instagram.com/ashvamedha_iitbbs/",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Alma Fiesta",
+      "type": "cultural",
+      "month": "January",
+      "footfall": 20000,
+      "url": "https://www.instagram.com/almafiesta.iitbbs/",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Wissenaire",
+      "type": "technical",
+      "month": null,
+      "footfall": null,
+      "url": "https://www.wissenaire.org/",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "E-Summit",
+      "type": "entrepreneurship",
+      "month": null,
+      "footfall": null,
+      "url": "https://e-summit-iitbbs.com/",
+      "sources": [
+        {
+          "url": "https://gymkhana.iitbbs.ac.in/fests.php",
+          "title": "Students' Gymkhana - Fests",
+          "publisher": "IIT Bhubaneswar Gymkhana",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sports": [
+    {
+      "facility": "Football",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Cricket",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Badminton",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Athletics",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Volleyball",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Basketball",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Hockey",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Table Tennis",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Squash",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Lawn Tennis",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Board Games (Chess, Carrom)",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Gym and Weightlifting",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Swimming Pool",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/sports.php", "title": "Sports Council", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Student Activity Center (SAC)",
+      "sources": [
+        { "url": "https://gymkhana.iitbbs.ac.in/facilities.php", "title": "Gymkhana Facilities", "publisher": "IIT Bhubaneswar Gymkhana", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    }
+  ]
+}

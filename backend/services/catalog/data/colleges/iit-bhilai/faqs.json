@@ -1,0 +1,186 @@
+{
+  "instituteId": "iit-bhilai",
+  "items": [
+    {
+      "q": "When was IIT Bhilai set up, and where is its campus today?",
+      "a": "IIT Bhilai was set up by the Ministry of Education on 7 August 2016 in Chhattisgarh, one of the newer IITs sanctioned that decade. It ran out of a temporary campus in its early years and moved into its permanent site at Kutelabhata, near Bhilai, on 1 August 2023. The permanent campus spans roughly 445 acres and is still being built out in phases.",
+      "asOf": "2023",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+          "title": "Indian Institute of Technology Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Which institute mentored IIT Bhilai when it was founded, and who leads it now?",
+      "a": "As a newly sanctioned IIT, IIT Bhilai was initially mentored by IIT Hyderabad, with Prof. U. B. Desai overseeing its early setup. Prof. Rajat Moona served as its first full-time Director from 2017 to 2022, and Prof. Rajiv Prakash, whose research is in electronic polymers and organic electronics, has led the institute as Director since September 2022.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+          "title": "Indian Institute of Technology Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "How does admission into IIT Bhilai's B.Tech programs work?",
+      "a": "Undergraduate seats at IIT Bhilai are filled the same way as at every other IIT: candidates qualify through JEE Advanced and are allotted seats via JoSAA's centralised joint counselling process. There is no separate application route specific to this institute for B.Tech admission; postgraduate and doctoral admissions instead run through channels such as GATE and the institute's own PhD admission cycles.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://josaa.nic.in/",
+          "title": "Joint Seat Allocation Authority (JoSAA)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What undergraduate branches can a student pick at IIT Bhilai?",
+      "a": "The institute currently runs seven B.Tech programs: Computer Science and Engineering, Data Science and Artificial Intelligence, Electrical Engineering, Electronics and Communication Engineering, Mechanical Engineering, Materials Science and Metallurgical Engineering, and Mechatronics Engineering. It also offers BTech Honours specialisation options and folds in liberal and creative-arts coursework alongside the core technical curriculum.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Does IIT Bhilai offer postgraduate and PhD programs too, or is it mainly a B.Tech institute?",
+      "a": "It runs a fairly wide postgraduate slate alongside the B.Tech: thirteen M.Tech specialisations spanning areas like Data Science and AI, Power Systems, Electric Vehicle Technology, Microelectronics and VLSI, and Bioengineering, plus three M.Sc. programs in Physics, Chemistry, and Mathematics and Computing. PhD admission is offered across all eleven of its academic departments, including a Liberal Arts department.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Where does IIT Bhilai stand in the NIRF rankings?",
+      "a": "In the NIRF 2025 Engineering category, IIT Bhilai was placed 72nd nationally. That is lower than the older, established IITs, which is expected given the institute is barely a decade old and only shifted onto its own permanent campus in 2023; its rank has generally been moving as its campus, faculty strength and research output continue to scale up.",
+      "asOf": "2025",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+          "title": "Indian Institute of Technology Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Is IIT Bhilai's alumni base large, given how young the institute is?",
+      "a": "It's still a small, early-stage alumni community. The first B.Tech batch graduated only in 2020, which is when the institute set up its Students' Alumni Cell to build ties between current students and graduates. A dedicated Alumni Office now coordinates the registered IIT Bhilai Alumni Association, runs alumni mentorship programs such as Alumni Masterclass and a Career Guidance Program, and sends out a monthly newsletter, but the pool of graduates is still far smaller than at the older IITs.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=alumni_office",
+          "title": "Alumni Office",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What is the student and research community size at IIT Bhilai?",
+      "a": "For the 2024-25 academic year, the institute reported about 1,267 students in total: 821 in B.Tech, 147 in M.Tech, 64 in M.Sc., and 235 pursuing a PhD. The relatively large PhD headcount compared to the overall student body reflects the institute's push to build up a research base even while its undergraduate intake is still expanding toward its long-term capacity target.",
+      "asOf": "2024-25",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+          "title": "Indian Institute of Technology Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What is the institute's main annual fest called?",
+      "a": "Students organise Meraz, a techno-cultural fest that brings technical competitions, cultural performances and speaker sessions to campus and draws participants from colleges across the state. It has run since the institute's early years on the temporary campus and continues on the permanent Kutelabhata campus.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+          "title": "Indian Institute of Technology Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Has IIT Bhilai held convocations on its permanent campus, and have there been any notable guests?",
+      "a": "Yes. The institute's October 2024 convocation, held on the permanent campus, conferred degrees on 396 students and was graced by President Droupadi Murmu, a mark of the institute's growing national visibility. It has continued holding annual convocations since, with the fifth one taking place in November 2025 with a stated focus on research growth and innovation.",
+      "asOf": "2024-25",
+      "sources": [
+        {
+          "url": "https://indianexpress.com/",
+          "title": "IIT Bhilai convocation held; 396 students conferred degrees",
+          "publisher": "The Indian Express",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://pib.gov.in/",
+          "title": "IIT Bhilai Holds Fifth Convocation; Focus on Research Growth, Innovation and Nation Building",
+          "publisher": "Press Information Bureau, Government of India",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What kind of labs and academic facilities does IIT Bhilai offer on campus?",
+      "a": "Beyond standard department labs for its engineering branches, the institute lists shared facilities such as an Automation Systems Lab with industrial robots and PLC-based training, a Central Instrumentation Facility for advanced research equipment, and a Central Library built on the Koha open-source library system that stays open through weekends. These centralised facilities are meant to serve students, research scholars and faculty across departments rather than any single branch.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility",
+          "title": "Institute Facilities",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    }
+  ]
+}

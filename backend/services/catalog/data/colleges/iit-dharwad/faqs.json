@@ -1,0 +1,185 @@
+{
+  "instituteId": "iit-dharwad",
+  "items": [
+    {
+      "q": "When was IIT Dharwad set up, and how have its academic offerings grown?",
+      "a": "IIT Dharwad was founded in 2016 as one of the newer IITs, opening with three B.Tech branches — Electrical Engineering, Computer Science, and Mechanical Engineering. Its course offerings have since widened considerably, and by 2022 published figures put total sanctioned undergraduate intake at roughly 310 seats a year across the expanded set of branches.",
+      "asOf": "2022",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Dharwad",
+          "title": "Indian Institute of Technology Dharwad",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What entrance exam do I need for IIT Dharwad's B.Tech and BS-MS programs?",
+      "a": "Undergraduate B.Tech seats are filled through JEE Advanced, the same national exam used across every IIT, followed by JoSAA counselling. The four-year BS-MS science program instead admits students through the CUET-UG exam, as stated on the institute's own B.Tech admissions page.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/btech",
+          "title": "B.Tech",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Where exactly is the IIT Dharwad campus located?",
+      "a": "The permanent campus sits at Chikkamalligawad on the outskirts of the twin cities of Hubballi-Dharwad in north Karnataka, in the transition zone between the Western Ghats and the Deccan plateau, at roughly 750 metres of elevation. It lies only a few kilometres from the transit campus the institute used in its early years.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/permanent-campus",
+          "title": "Permanent Campus",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "How big is IIT Dharwad's permanent campus?",
+      "a": "The Karnataka government allotted about 470 acres of land for IIT Dharwad's permanent campus, as stated on the institute's own campus page. The site was still under accelerated development at the time that page was published, moving out of the earlier transit campus in stages.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/permanent-campus",
+          "title": "Permanent Campus",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Has IIT Dharwad fully moved into its permanent campus?",
+      "a": "Yes, based on publicly available reporting the permanent campus became fully operational in March 2023, ending the institute's earlier arrangement of running out of a transit site within the WALMI campus in Dharwad.",
+      "asOf": "2023",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Dharwad",
+          "title": "Indian Institute of Technology Dharwad",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What is Dharwad as a city like for someone moving there to study?",
+      "a": "Dharwad, twinned with neighbouring Hubballi, is described by the institute as north Karnataka's education hub, with deep roots in Hindustani classical music and Kannada literature — home to artists such as Bhimsen Joshi and Gangubhai Hangal and writers including Jnanpith awardee D. R. Bendre. It sits roughly between Bengaluru and Mumbai and has a mostly mild climate outside the summer months.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/about-dharwad",
+          "title": "About Dharwad",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What departments and degree levels does IIT Dharwad offer?",
+      "a": "Per the institute's own site structure, IIT Dharwad runs departments spanning Computer Science & Engineering, Electrical Electronics & Communication Engineering, Mechanical Materials & Aerospace Engineering, Chemical Engineering, Civil & Infrastructure Engineering, Chemistry, Physics, Mathematics, Biosciences & Bioengineering, and Humanities/Economics/Arts, offering everything from B.Tech and BS-MS up to M.Sc, M.Tech, Executive M.Tech, M.Tech by Research, and PhD.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/admissions",
+          "title": "Admissions",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Can B.Tech students at IIT Dharwad also take a minor?",
+      "a": "Yes. The institute's own program listing includes a dedicated Minor Program track for both B.Tech and BS-MS students, letting them add a secondary area of study alongside their core degree.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/btech",
+          "title": "B.Tech",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What scholarships can IIT Dharwad students apply for?",
+      "a": "The institute's scholarships page lists a mix of externally funded awards — including the Bajaj Finserv, IDFC FIRST Bank, Reliance Foundation, FFE, and Kalpana Chawla Chhatravrati Yojna scholarships — alongside government routes via the National Scholarship Portal and doctoral fellowships such as PMRF and the Visvesvaraya PhD Scheme.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/scholarships",
+          "title": "Scholarships",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Does IIT Dharwad have an active alumni network?",
+      "a": "Yes — the IIT Dharwad Alumni Association organizes periodic reunions and, as its alumni base has grown, has begun setting up city-based chapters, such as one launched in Bengaluru, to connect graduates with each other and with the placement process back on campus.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/about-us",
+          "title": "About Us — Alumni Corner",
+          "publisher": "IIT Dharwad Alumni Association",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What was IIT Dharwad's NIRF Engineering ranking most recently?",
+      "a": "According to publicly reported NIRF results, IIT Dharwad placed 77th in the Engineering category in the 2025 rankings — a reasonable showing for an institute that is still less than a decade old.",
+      "asOf": "2025",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Dharwad",
+          "title": "Indian Institute of Technology Dharwad",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Roughly how many students and faculty does IIT Dharwad have?",
+      "a": "Publicly reported figures from 2024 put total enrollment at around 866 students — about 701 undergraduates, 59 postgraduates, and 106 doctoral scholars — taught by roughly 86 academic staff, reflecting the institute's still-growing scale compared with the older IITs.",
+      "asOf": "2024",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Dharwad",
+          "title": "Indian Institute of Technology Dharwad",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ]
+    }
+  ]
+}

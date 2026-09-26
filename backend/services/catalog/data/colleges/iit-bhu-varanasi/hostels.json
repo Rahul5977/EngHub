@@ -1,0 +1,36 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "count": 16,
+  "capacity": null,
+  "occupancy": null,
+  "messNote": null,
+  "hostels": [
+    { "name": "Aryabhatta I & II Hostel", "gender": "boys" },
+    { "name": "S. N. Bose Hostel", "gender": "boys" },
+    { "name": "Dr. C. V. Raman Hostel", "gender": "boys" },
+    { "name": "Dhanrajgiri Hostel", "gender": "boys" },
+    { "name": "Satish Dhawan Hostel", "gender": "boys" },
+    { "name": "Dr. S. Ramanujan Hostel", "gender": "boys" },
+    { "name": "Morvi Hostel", "gender": "boys" },
+    { "name": "Rajputana Hostel", "gender": "boys" },
+    { "name": "Limbdi Hostel", "gender": "boys" },
+    { "name": "Vishwakarma Hostel", "gender": "boys" },
+    { "name": "Vishweshwaraiya Hostel", "gender": "boys" },
+    { "name": "Vivekanand Hostel", "gender": "boys" },
+    { "name": "Prafulla Chandra Ray Hostel", "gender": "boys" },
+    { "name": "Nivedita Girls Hostel", "gender": "girls" },
+    { "name": "GSMC Old & Ext. Hostel", "gender": "girls" },
+    { "name": "S. C. De. Girls Hostel", "gender": "girls" }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitbhu.ac.in/hostels",
+      "title": "Institute - Hostels",
+      "publisher": "IIT (BHU) Varanasi",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}

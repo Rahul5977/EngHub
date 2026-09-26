@@ -1,0 +1,504 @@
+{
+  "instituteId": "iit-delhi",
+  "summary": {
+    "text": "Student life outside the classroom runs through elected student bodies rather than a single council. BRCA coordinates eleven clubs spanning dance, drama, music, debate, quizzing, design and fine arts, and stages the cultural fest Rendezvous each October. CAIC hosts technical clubs such as DevClub and Robotics Club plus several departmental societies, and organises Tryst, the institute's annual science-and-technology festival held in February-March. BSA runs competitive and recreational sport across fourteen disciplines, from athletics and swimming to weightlifting, alongside an entrepreneurship cell and a community-service wing.",
+    "sources": [
+      {
+        "url": "https://brca.iitd.ac.in/",
+        "title": "BRCA - Board for Recreational and Creative Activities",
+        "publisher": "IIT Delhi (BRCA)",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://caic.iitd.ac.in/",
+        "title": "CAIC - Co-curricular and Academic Interaction Council",
+        "publisher": "IIT Delhi (CAIC)",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://bsa.iitd.ac.in/",
+        "title": "BSA - Board for Sports Activities",
+        "publisher": "IIT Delhi (BSA)",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ],
+    "asOf": null
+  },
+  "clubs": [
+    {
+      "name": "Design",
+      "category": "media",
+      "note": "One of BRCA's eleven clubs; a student design collective working on visual and product design projects.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "PFC",
+      "category": "media",
+      "note": "One of BRCA's eleven clubs, focused on photography and filmmaking on campus.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "FACC",
+      "category": "cultural",
+      "note": "One of BRCA's eleven clubs, covering fine arts and craft activities.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Dance",
+      "category": "cultural",
+      "note": "BRCA's dance club, performing classical and contemporary styles at campus events.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Hindi Samiti",
+      "category": "literary",
+      "note": "BRCA club promoting Hindi language, literature and related events on campus.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Literary",
+      "category": "literary",
+      "note": "BRCA's literary club, centred on creative writing and related activities.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Debating",
+      "category": "literary",
+      "note": "BRCA's debate society, running campus debates and training teams for outside competitions.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Dramatics",
+      "category": "cultural",
+      "note": "BRCA's theatre club, staging plays and skits through the year.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Quizzing",
+      "category": "literary",
+      "note": "BRCA's quiz club, running campus quizzes and preparing teams for outside competitions.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Music",
+      "category": "cultural",
+      "note": "BRCA's music club, covering vocal and instrumental performance.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "SPIC MACAY",
+      "category": "cultural",
+      "note": "Campus chapter of SPIC MACAY, promoting Indian classical music, dance and heritage arts.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/#/club",
+          "title": "BRCA - The Clubs",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "DevClub",
+      "category": "technical",
+      "note": "CAIC's software-development club, where students build projects and learn programming together.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Axlr8r Formula Racing",
+      "category": "technical",
+      "note": "CAIC's Formula-style student racing team, designing and building a race car each year.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Physics and Astronomy Club",
+      "category": "technical",
+      "note": "CAIC club for astronomy and physics enthusiasts, running observation sessions and talks.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Robotics Club",
+      "category": "technical",
+      "note": "CAIC's robotics club; builds and programs robots and represents the institute at robotics events.",
+      "url": "https://roboticsclub.iitd.ac.in/",
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "Home Page: IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "BlocSoc",
+      "category": "technical",
+      "note": "CAIC club exploring blockchain technology and its applications.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "MathSoc",
+      "category": "technical",
+      "note": "Mathematics Society of IIT Delhi; runs math talks, competitions and outreach for students.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "ACES",
+      "category": "technical",
+      "note": "Association of Computer Engineering Students; the CSE department's student society under CAIC.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "CEF",
+      "category": "technical",
+      "note": "Civil Engineering Forum; the civil engineering department's student society under CAIC.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Chemocronies",
+      "category": "technical",
+      "note": "Chemical Engineering Society; the chemical engineering department's student body under CAIC.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "TES",
+      "category": "technical",
+      "note": "Textile Engineering Society; the textile and fibre engineering department's student body under CAIC.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/",
+          "title": "CAIC - Co-curricular and Academic Interaction Council",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Entrepreneurship Development Cell (EDC)",
+      "category": "entrepreneurship",
+      "note": "Institute-level cell that runs startup events, talks and competitions for students.",
+      "url": "https://edc.iitd.ac.in",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "Home Page: IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "National Service Scheme (NSS)",
+      "category": "social",
+      "note": "Student wing coordinating community-service and outreach activities in and around campus.",
+      "url": "https://nssiitd.in/",
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/",
+          "title": "Home Page: IIT Delhi",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "fests": [
+    {
+      "name": "Tryst",
+      "type": "technical",
+      "month": "February-March",
+      "footfall": 40000,
+      "url": "https://tryst-iitdelhi.org",
+      "sources": [
+        {
+          "url": "https://caic.iitd.ac.in/tryst",
+          "title": "TRYST | CAIC - IIT Delhi",
+          "publisher": "IIT Delhi (CAIC)",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Rendezvous",
+      "type": "cultural",
+      "month": "October",
+      "footfall": 15000,
+      "url": "https://brca.iitd.ac.in/#/rdv",
+      "sources": [
+        {
+          "url": "https://brca.iitd.ac.in/",
+          "title": "BRCA - Board for Recreational and Creative Activities",
+          "publisher": "IIT Delhi (BRCA)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2019",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2019"
+    }
+  ],
+  "sports": [
+    { "facility": "Athletics", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Badminton", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Basketball", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Chess", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Cricket", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Football", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Hockey", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Lawn Tennis", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Squash", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Swimming", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Table Tennis", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Volleyball", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Water Polo", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null },
+    { "facility": "Weightlifting", "sources": [{ "url": "https://bsa.iitd.ac.in/", "title": "BSA - Board for Sports Activities", "publisher": "IIT Delhi (BSA)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }], "asOf": null }
+  ]
+}

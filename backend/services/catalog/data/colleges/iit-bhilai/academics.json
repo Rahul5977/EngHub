@@ -1,0 +1,402 @@
+{
+  "instituteId": "iit-bhilai",
+  "departments": [
+    {
+      "name": "Department of Computer Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Computer Science and Engineering", "durationYears": 4, "intake": 61 },
+        { "degree": "M.Tech", "name": "Computer Science and Engineering", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (BTech Computer Science and Engineering; MTech Computer Science and Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Computer Science and Engineering rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Discipline of Data Science and Artificial Intelligence",
+      "programs": [
+        { "degree": "B.Tech", "name": "Data Science and Artificial Intelligence", "durationYears": 4, "intake": 44 },
+        { "degree": "M.Tech", "name": "Data Science and Artificial Intelligence", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=nav_department",
+          "title": "Academic Departments - IIT Bhilai (Discipline of Data Science and Artificial Intelligence, listed separately from Computer Science and Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Data Science and Artificial Intelligence rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Department of Electrical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electrical Engineering", "durationYears": 4, "intake": 60 },
+        { "degree": "M.Tech", "name": "Control and Instrumentation", "durationYears": null, "intake": null },
+        { "degree": "M.Tech", "name": "Power Systems and Power Electronics", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (BTech Electrical Engineering; MTech Control and Instrumentation, Power Systems and Power Electronics)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Electrical Engineering rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Department of Electronics and Communication Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electronics and Communication Engineering", "durationYears": 4, "intake": 44 },
+        { "degree": "M.Tech", "name": "Electronics and Communication Engineering", "durationYears": null, "intake": null },
+        { "degree": "M.Tech", "name": "Microelectronics and VLSI", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (BTech Electronics and Communication Engineering; MTech Electronics and Communication Engineering, Microelectronics and VLSI)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Electronics and Communication Engineering rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Department of Materials Science and Metallurgical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Materials Science and Metallurgical Engineering", "durationYears": 4, "intake": 30 },
+        { "degree": "M.Tech", "name": "Material Science and Metallurgical Engineering", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (BTech Material Science and Metallurgical Engineering; MTech Material Science and Metallurgical Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Materials Science and Metallurgical Engineering rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Department of Mechanical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mechanical Engineering", "durationYears": 4, "intake": 60 },
+        { "degree": "M.Tech", "name": "Design and Manufacturing", "durationYears": null, "intake": null },
+        { "degree": "M.Tech", "name": "Thermal and Fluids Engineering", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (BTech Mechanical Engineering; MTech Design and Manufacturing, Thermal and Fluids Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Mechanical Engineering rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Department of Mechatronics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mechatronics Engineering", "durationYears": 4, "intake": 30 },
+        { "degree": "M.Tech", "name": "Mechatronics Engineering", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (BTech Mechatronics Engineering; MTech Mechatronics Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai; Mechatronics Engineering rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Discipline of Electric Vehicle Technology",
+      "programs": [
+        { "degree": "M.Tech", "name": "Electric Vehicle Technology", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=nav_department",
+          "title": "Academic Departments - IIT Bhilai (Discipline of Electric Vehicle Technology, listed separately from Electrical Engineering; no UG programme)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Department of Bioscience and Biomedical Engineering",
+      "programs": [
+        { "degree": "M.Tech", "name": "Biomedical Devices", "durationYears": null, "intake": null },
+        { "degree": "M.Tech", "name": "Bioengineering", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (MTech Biomedical Devices, Bioengineering; PhD Bioscience and Biomedical Engineering; no UG BTech programme)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Department of Chemistry",
+      "programs": [
+        { "degree": "M.Sc.", "name": "Chemistry", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_msc",
+          "title": "MSc Admissions - IIT Bhilai (Chemistry MSc offered, admission via JAM; no UG BTech programme)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Department of Mathematics",
+      "programs": [
+        { "degree": "M.Sc.", "name": "Mathematics and Computing", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_msc",
+          "title": "MSc Admissions - IIT Bhilai (Mathematics and Computing MSc offered, admission via JAM; no UG BTech programme)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Department of Physics",
+      "programs": [
+        { "degree": "M.Sc.", "name": "Physics", "durationYears": null, "intake": null }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_msc",
+          "title": "MSc Admissions - IIT Bhilai (Physics MSc offered, admission via JAM; no UG BTech programme)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Department of Liberal Arts",
+      "programs": [],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+          "title": "About IIT Bhilai (PhD Liberal Arts; department has no UG, MTech or MSc programme)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "facultyCount": {
+    "value": 85,
+    "sources": [
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=report_engineering_2026",
+        "title": "NIRF 2026 Engineering Data Capturing System submission - IIT Bhilai (Faculty Details table, 85 currently-serving regular faculty listed)",
+        "publisher": "NIRF",
+        "accessedOn": "2026-09-16",
+        "asOf": "2024-25",
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+        "title": "Indian Institute of Technology Bhilai - Wikipedia (infobox: academic staff 85)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": "2024-25"
+  },
+  "curriculumHighlights": [
+    {
+      "text": "Data Science and Artificial Intelligence runs as its own standalone B.Tech discipline rather than a track inside Computer Science and Engineering, giving it a separate admission line and department-style identity.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=nav_department",
+          "title": "Academic Departments - IIT Bhilai (Discipline of Data Science and Artificial Intelligence listed apart from Department of Computer Science and Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "First-year students across every branch take a shared Applied Digital Logic Design course built around the institute's FPGA lab, so hands-on digital-hardware design is common to the whole batch, not just electronics majors.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility",
+          "title": "Institute Facilities - IIT Bhilai (FPGA Lab: all first-year students introduced to FPGA via the Applied Digital Logic Design course)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "Electric Vehicle Technology is organised as its own discipline with a dedicated M.Tech, separate from the Electrical Engineering department, reflecting a deliberate push into emerging mobility technology.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=nav_department",
+          "title": "Academic Departments - IIT Bhilai (Discipline of Electric Vehicle Technology listed apart from Department of Electrical Engineering)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "All undergraduates pass through a common DIY training lab covering laser cutting, CNC machining and prototyping, meant to give every branch hands-on fabrication skills before specialised coursework.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility",
+          "title": "Institute Facilities - IIT Bhilai (DIY Training Lab: all undergraduate students of the institute undergo training)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "research": {
+    "note": "IIT Bhilai runs PhD admission as a rolling, department-wise cycle across all twelve engineering, science and liberal-arts departments rather than one annual round. Sponsored research income has grown quickly: faculty ran 143 funded projects across 34 agencies in 2024-25, more than double the 62 projects the year before, alongside a DST-backed Technology Innovation Hub for financial technology housed at the institute's own innovation foundation.",
+    "phdCount": 233,
+    "sources": [
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=report_engineering_2026",
+        "title": "NIRF 2026 Engineering submission - IIT Bhilai (PhD: 195 full-time + 38 part-time; Sponsored Research: 143 projects/34 agencies 2024-25 vs 62/14 in 2023-24)",
+        "publisher": "NIRF",
+        "accessedOn": "2026-09-16",
+        "asOf": "2024-25",
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_phd_new",
+        "title": "PhD Admission at IIT Bhilai (rolling per-semester application portal, department-wise shortlisting across BSBME, CY, CSE, DSAI, ECE, EE, LA, MA, MSME, ME, MT, PHY)",
+        "publisher": "IIT Bhilai",
+        "accessedOn": "2026-09-16",
+        "asOf": "2026-27",
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility",
+        "title": "Institute Facilities - IIT Bhilai (IIT Bhilai Innovation and Technology Foundation hosts the DST-funded Technology Innovation Hub for FinTech under NM-ICPS)",
+        "publisher": "IIT Bhilai",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ],
+    "asOf": "2024-25"
+  }
+}

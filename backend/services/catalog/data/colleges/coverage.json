@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:12:34.044Z",
+  "generatedAt": "2026-09-18T20:08:43.753Z",
   "sections": [
     "profile",
     "academics",
@@ -431,43 +431,43 @@
       "faqs": -1
     },
     "iit-bhilai": {
-      "profile": -1,
-      "academics": -1,
-      "placements": -1,
+      "profile": 100,
+      "academics": 71,
+      "placements": 78,
       "seat-matrix": 100,
-      "fees": -1,
-      "campus-life": -1,
-      "hostels": -1,
-      "alumni": -1,
-      "social": -1,
-      "rankings": -1,
-      "faqs": -1
+      "fees": 96,
+      "campus-life": 79,
+      "hostels": 88,
+      "alumni": 0,
+      "social": 92,
+      "rankings": 55,
+      "faqs": 100
     },
     "iit-bhu-varanasi": {
-      "profile": -1,
-      "academics": -1,
-      "placements": -1,
+      "profile": 100,
+      "academics": 100,
+      "placements": 76,
       "seat-matrix": 100,
-      "fees": -1,
-      "campus-life": -1,
-      "hostels": -1,
-      "alumni": -1,
-      "social": -1,
-      "rankings": -1,
-      "faqs": -1
+      "fees": 89,
+      "campus-life": 78,
+      "hostels": 92,
+      "alumni": 91,
+      "social": 98,
+      "rankings": 79,
+      "faqs": 100
     },
     "iit-bhubaneswar": {
-      "profile": -1,
-      "academics": -1,
-      "placements": -1,
+      "profile": 100,
+      "academics": 87,
+      "placements": 97,
       "seat-matrix": 100,
-      "fees": -1,
-      "campus-life": -1,
-      "hostels": -1,
-      "alumni": -1,
-      "social": -1,
-      "rankings": -1,
-      "faqs": -1
+      "fees": 100,
+      "campus-life": 78,
+      "hostels": 100,
+      "alumni": 0,
+      "social": 98,
+      "rankings": 88,
+      "faqs": 100
     },
     "iit-bombay": {
       "profile": 100,
@@ -483,30 +483,30 @@
       "faqs": 100
     },
     "iit-delhi": {
-      "profile": -1,
-      "academics": -1,
+      "profile": 100,
+      "academics": 100,
       "placements": -1,
       "seat-matrix": 100,
       "fees": -1,
-      "campus-life": -1,
-      "hostels": -1,
-      "alumni": -1,
-      "social": -1,
-      "rankings": -1,
-      "faqs": -1
+      "campus-life": 83,
+      "hostels": 97,
+      "alumni": 79,
+      "social": 100,
+      "rankings": 81,
+      "faqs": 100
     },
     "iit-dharwad": {
-      "profile": -1,
+      "profile": 0,
       "academics": -1,
       "placements": -1,
       "seat-matrix": 100,
       "fees": -1,
       "campus-life": -1,
       "hostels": -1,
-      "alumni": -1,
+      "alumni": 0,
       "social": -1,
       "rankings": -1,
-      "faqs": -1
+      "faqs": 100
     },
     "iit-gandhinagar": {
       "profile": -1,
@@ -574,17 +574,17 @@
       "faqs": -1
     },
     "iit-ism-dhanbad": {
-      "profile": -1,
-      "academics": -1,
-      "placements": -1,
+      "profile": 87,
+      "academics": 98,
+      "placements": 93,
       "seat-matrix": 100,
-      "fees": -1,
-      "campus-life": -1,
-      "hostels": -1,
-      "alumni": -1,
-      "social": -1,
-      "rankings": -1,
-      "faqs": -1
+      "fees": 94,
+      "campus-life": 82,
+      "hostels": 100,
+      "alumni": 81,
+      "social": 98,
+      "rankings": 88,
+      "faqs": 100
     },
     "iit-jammu": {
       "profile": -1,

@@ -1,0 +1,540 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "departments": [
+    {
+      "name": "Applied Geology",
+      "programs": [
+        { "degree": "B.Tech", "name": "Geological Engineering", "durationYears": 4, "intake": 21 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Applied Geology)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Geological Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Applied Geophysics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Geophysical Technology", "durationYears": 4, "intake": 21 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Applied Geophysics)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Geophysical Technology row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Chemical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Chemical Engineering", "durationYears": 4, "intake": 55 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Chemical Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Chemical Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Chemistry and Chemical Biology",
+      "programs": [
+        { "degree": "BS-MS", "name": "Chemical Science (Integrated)", "durationYears": 5, "intake": 20 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Chemistry and Chemical Biology)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Chemical Science row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Civil Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Civil Engineering", "durationYears": 4, "intake": 70 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Civil Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Civil Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Computer Science and Engineering", "durationYears": 4, "intake": 145 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Computer Science and Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Computer Science and Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Electrical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electrical Engineering", "durationYears": 4, "intake": 130 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Electrical Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Electrical Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Electronics Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electronics and Communication Engineering", "durationYears": 4, "intake": 130 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Electronics Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Electronics and Communication Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Environmental Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Environmental Engineering", "durationYears": 4, "intake": 50 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Environmental Science and Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Environmental Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Fuel, Minerals and Metallurgical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mineral and Metallurgical Engineering", "durationYears": 4, "intake": 45 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Fuel, Minerals and Metallurgical Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Mineral and Metallurgical Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Humanities and Social Sciences",
+      "programs": [],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Humanities and Social Sciences; no UG B.Tech/BS-MS programme)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Management Studies and Industrial Engineering",
+      "programs": [],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Management Studies and Industrial Engineering; postgraduate MBA only, no UG B.Tech/BS-MS programme)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Mathematics & Computing",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mathematics and Computing", "durationYears": 4, "intake": 75 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Mathematics & Computing)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Mathematics and Computing row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mechanical Engineering", "durationYears": 4, "intake": 130 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Mechanical Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Mechanical Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mining Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mining Engineering", "durationYears": 4, "intake": 60 },
+        { "degree": "B.Tech", "name": "Mining Machinery Engineering", "durationYears": 4, "intake": 56 },
+        { "degree": "Dual Degree", "name": "B.Tech Mining Engineering and MBA in Logistic and Supply Chain Management (IIM Mumbai)", "durationYears": 5, "intake": 60 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Mining Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Mining Engineering, Mining Machinery Engineering and the Mining+MBA dual-degree rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Petroleum Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Petroleum Engineering", "durationYears": 4, "intake": 90 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Petroleum Engineering)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Petroleum Engineering row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Physics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Engineering Physics", "durationYears": 4, "intake": 32 },
+        { "degree": "BS-MS", "name": "Physical Science (Integrated)", "durationYears": 5, "intake": 20 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Physics)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Engineering Physics and Physical Science rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    }
+  ],
+  "facultyCount": {
+    "value": 414,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/IIT_(ISM)_Dhanbad",
+        "title": "IIT (ISM) Dhanbad - Wikipedia (infobox: academic staff 414)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "curriculumHighlights": [
+    {
+      "text": "IIT (ISM) is the only IIT offering full undergraduate tracks in mining, petroleum, applied geology and geophysics, so students in these disciplines study alongside core earth-science departments rather than a bolted-on minor.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/departments",
+          "title": "Departments - IIT (ISM) Dhanbad (Mining, Petroleum, Applied Geology, Applied Geophysics, Fuel-Minerals-Metallurgical Engineering listed as full departments)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(ISM)_Dhanbad",
+          "title": "IIT (ISM) Dhanbad - Wikipedia (only institution of its kind in India with all the earth science branches)",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "A five-year dual-degree track pairs B.Tech Mining Engineering with an MBA in Logistics and Supply Chain Management awarded jointly with IIM Mumbai, combining a technical degree with a management qualification.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/jeea",
+          "title": "JEE (Advanced) / UG Admissions - IIT (ISM) Dhanbad (Dual Degree Programme: B.Tech Mining Engineering + MBA Logistics & SCM, IIM Mumbai)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Mining+MBA dual-degree row)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "text": "Two integrated BS-MS programmes, in Physical Science and Chemical Science, run five years and let students move from a foundational science undergraduate curriculum into a research-oriented master's without a separate entrance test.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/jeea",
+          "title": "JEE (Advanced) / UG Admissions - IIT (ISM) Dhanbad (2 Integrated BS-MS Programmes: Physical Science, Chemical Science)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology; Physical Science and Chemical Science rows)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "text": "PhD admission stays open through the year across regular institute-assistantship, externally-funded-fellowship and part-time working-professional tracks, reflecting a research programme that runs alongside the taught degrees.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/phdadmission",
+          "title": "PhD Admission - IIT (ISM) Dhanbad (Regular/IA, Externally Funded, Part Time and Special Admission Drive modes; apply throughout the year)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "research": {
+    "note": "Research at IIT (ISM) leans on its earth-science base: mining, petroleum and applied geology labs work alongside newer computing and engineering groups, and a 2017 survey by an institute team estimated a roughly Rs 36,000 crore manganese ore deposit. PhD scholars are enrolled across regular, externally-funded and part-time tracks year round.",
+    "phdCount": 1102,
+    "sources": [
+      {
+        "url": "https://www.iitism.ac.in/about-history",
+        "title": "History - IIT (ISM) Dhanbad (2017 manganese ore deposit discovery by an institute research team, valued around Rs 36,000 crore)",
+        "publisher": "IIT (ISM) Dhanbad",
+        "accessedOn": "2026-09-16",
+        "asOf": "2017",
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitism.ac.in/phdadmission",
+        "title": "PhD Admission - IIT (ISM) Dhanbad (Regular, Externally Funded and Part Time tracks)",
+        "publisher": "IIT (ISM) Dhanbad",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/IIT_(ISM)_Dhanbad",
+        "title": "IIT (ISM) Dhanbad - Wikipedia (infobox: doctoral students 1,102)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  }
+}

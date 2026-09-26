@@ -1,0 +1,144 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "nirf": [
+    {
+      "year": 2019,
+      "overall": 46,
+      "engineering": 17,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/ranking/",
+          "title": "Ranking - IIT Bhubaneswar (NIRF 2019: Overall 46, Engineering 17)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2019",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2019"
+    },
+    {
+      "year": 2020,
+      "overall": 56,
+      "engineering": 22,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/ranking/",
+          "title": "Ranking - IIT Bhubaneswar (NIRF 2020: Overall 56, Engineering 22)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2020",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2020"
+    },
+    {
+      "year": 2021,
+      "overall": 58,
+      "engineering": 28,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/ranking/",
+          "title": "Ranking - IIT Bhubaneswar (NIRF 2021: Overall 58, Engineering 28, Research 43)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2021",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2021"
+    },
+    {
+      "year": 2022,
+      "overall": 65,
+      "engineering": 36,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/ranking/",
+          "title": "Ranking - IIT Bhubaneswar (NIRF 2022, released 15-07-2022: Overall 65, Engineering 36, Research 37)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2022"
+    },
+    {
+      "year": 2024,
+      "overall": 59,
+      "engineering": 36,
+      "sources": [
+        {
+          "url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-bhubaneswar-argul-73000/ranking",
+          "title": "IIT Bhubaneswar Ranking - NIRF 2024 (Engineering 36th, Overall 59th, Research 42nd)",
+          "publisher": "Shiksha",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2024"
+    },
+    {
+      "year": 2025,
+      "overall": 80,
+      "engineering": 39,
+      "sources": [
+        {
+          "url": "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+          "title": "NIRF 2025 Engineering Ranking",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.nirfindia.org/Rankings/2025/OverallRanking.html",
+          "title": "NIRF 2025 Overall Ranking",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025"
+    }
+  ],
+  "qs": [
+    {
+      "year": 2020,
+      "world": null,
+      "asia": 227,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/ranking/",
+          "title": "Ranking - IIT Bhubaneswar (QS Asia University Rankings 2020: regional rank 227)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2020",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2020"
+    },
+    {
+      "year": 2022,
+      "world": 701,
+      "asia": null,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/ranking/",
+          "title": "Ranking - IIT Bhubaneswar (QS World University Rankings 2022: band 701-750)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2022"
+    }
+  ],
+  "naac": null
+}

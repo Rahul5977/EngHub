@@ -1,0 +1,79 @@
+{
+  "instituteId": "iit-bhilai",
+  "nirf": [
+    {
+      "year": 2023,
+      "overall": null,
+      "engineering": 81,
+      "sources": [
+        {
+          "url": "https://www.nirfindia.org/Rankings/2023/EngineeringRanking.html",
+          "title": "NIRF India Rankings 2023 - Engineering (Indian Institute of Technology Bhilai, IR-E-U-0946, rank 81, score 45.86)",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.nirfindia.org/Rankings/2023/OverallRanking.html",
+          "title": "NIRF India Rankings 2023 - Overall (Indian Institute of Technology Bhilai not listed in the published top-100 overall band)",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2023"
+    },
+    {
+      "year": 2024,
+      "overall": null,
+      "engineering": 73,
+      "sources": [
+        {
+          "url": "https://www.nirfindia.org/Rankings/2024/EngineeringRanking.html",
+          "title": "NIRF India Rankings 2024 - Engineering (Indian Institute of Technology Bhilai, IR-E-U-0946, rank 73, score 48.80)",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.nirfindia.org/Rankings/2024/OverallRanking.html",
+          "title": "NIRF India Rankings 2024 - Overall (Indian Institute of Technology Bhilai not listed in the published top-100 overall band)",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2024"
+    },
+    {
+      "year": 2025,
+      "overall": null,
+      "engineering": 72,
+      "sources": [
+        {
+          "url": "https://www.nirfindia.org/Rankings/2025/EngineeringRanking.html",
+          "title": "NIRF India Rankings 2025 - Engineering (Indian Institute of Technology Bhilai, IR-E-U-0946, Durg, Chhattisgarh, score 50.37, rank 72)",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.nirfindia.org/Rankings/2025/OverallRanking.html",
+          "title": "NIRF India Rankings 2025 - Overall (Indian Institute of Technology Bhilai, IR-O-U-0946, not listed in the published top-100 overall band)",
+          "publisher": "NIRF",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025"
+    }
+  ],
+  "qs": [],
+  "naac": null
+}

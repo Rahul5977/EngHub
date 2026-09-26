@@ -1,0 +1,45 @@
+{
+  "instituteId": "iit-delhi",
+  "count": 17,
+  "capacity": null,
+  "occupancy": "Hostel seats cover only about half of enrolled students, so many senior UG/PG students live off-campus; a few hostels (Dronagiri, Sahyadri, Saptagiri) are postgraduate-only.",
+  "messNote": "Each of the 17 hostels has its own mess run under its hostel mess committee; the BHM (Board for Hostel Management) portal centralises mess menus, complaints and a hostel marketplace across all of them.",
+  "hostels": [
+    { "name": "Aravali", "gender": "boys" },
+    { "name": "Girnar", "gender": "boys" },
+    { "name": "Jwalamukhi", "gender": "boys" },
+    { "name": "Karakoram", "gender": "boys" },
+    { "name": "Kumaon", "gender": "boys" },
+    { "name": "Nilgiri", "gender": "boys" },
+    { "name": "Shivalik", "gender": "boys" },
+    { "name": "Satpura", "gender": "boys" },
+    { "name": "Udaigiri", "gender": "boys" },
+    { "name": "Vindhyachal", "gender": "boys" },
+    { "name": "Zanskar", "gender": "boys" },
+    { "name": "Dronagiri", "gender": "boys" },
+    { "name": "Kailash", "gender": "girls" },
+    { "name": "Himadri", "gender": "girls" },
+    { "name": "Sahyadri", "gender": "girls" },
+    { "name": "Nalanda", "gender": "girls" },
+    { "name": "Saptagiri", "gender": "mixed" }
+  ],
+  "sources": [
+    {
+      "url": "https://home.iitd.ac.in/hall-of-residence.php",
+      "title": "Hall of Residence",
+      "publisher": "IIT Delhi",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://bhm.iitd.ac.in/",
+      "title": "BHM - Board for Hostel Management",
+      "publisher": "IIT Delhi (BHM)",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}

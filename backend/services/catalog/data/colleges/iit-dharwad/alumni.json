@@ -1,0 +1,90 @@
+{
+  "instituteId": "iit-dharwad",
+  "notable": [
+    {
+      "name": "Aswani Raj K",
+      "knownFor": "Chemistry PhD graduate; awarded the JSPS postdoctoral fellowship while working as a Research Associate at IIT Madras",
+      "program": "PhD, Chemistry",
+      "batch": 2025,
+      "asOf": "2025-12-19",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/alumni-achievements",
+          "title": "Alumni Achievements",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-12-19",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "name": "Pragnya Parimita Chayani",
+      "knownFor": "PhD (HSS) graduate; Assistant Professor of English at VIT-AP University, published on gender in Indian cinema",
+      "program": "PhD, Humanities and Social Sciences",
+      "batch": 2023,
+      "asOf": "2026-03-30",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/alumni-achievements",
+          "title": "Alumni Achievements",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-03-30",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "name": "Indrajeet Meena",
+      "knownFor": "B.Tech (Mech.) graduate; cleared the IBPS RRB exam, joined Rajasthan Gramin Bank as an Office Assistant",
+      "program": "B.Tech, Mechanical Engineering",
+      "batch": 2021,
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/alumni-achievements",
+          "title": "Alumni Achievements",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "name": "Aryan Chollera",
+      "knownFor": "B.Tech (EE) graduate; PhD student at Purdue University, IEEE-published on energy storage and electrification",
+      "program": "B.Tech, Electrical Engineering",
+      "batch": 2023,
+      "asOf": "2026",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/alumni-achievements",
+          "title": "Alumni Achievements",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "name": "Tanish H. Talapaneni",
+      "knownFor": "B.Tech Electrical Engineering graduate; RTL Design Engineer at Qualcomm, San Diego, and recipient of the JN Tata Endowment Scholarship",
+      "program": "B.Tech, Electrical Engineering",
+      "batch": 2024,
+      "asOf": "2025-11-22",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/alumni-achievements",
+          "title": "Alumni Achievements",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-11-22",
+          "confidence": "official"
+        }
+      ]
+    }
+  ]
+}

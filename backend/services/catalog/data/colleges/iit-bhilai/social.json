@@ -1,0 +1,57 @@
+{
+  "instituteId": "iit-bhilai",
+  "official": [
+    {
+      "platform": "facebook",
+      "handle": "iit.bh",
+      "url": "https://www.facebook.com/iit.bh/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/",
+          "title": "IIT Bhilai (official website footer)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "iitbhilai",
+      "url": "https://www.instagram.com/iitbhilai/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/",
+          "title": "IIT Bhilai (official website footer)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "x",
+      "handle": "IIT_Bhilai",
+      "url": "https://twitter.com/IIT_Bhilai",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/",
+          "title": "IIT Bhilai (official website footer)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "creators": []
+}

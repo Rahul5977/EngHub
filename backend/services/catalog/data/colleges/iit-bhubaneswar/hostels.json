@@ -1,0 +1,74 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "count": 6,
+  "capacity": 3010,
+  "occupancy": "Single-occupancy rooms in Brahmaputra, Mahanadi, Rushikulyaa, Ganga and Subarnarekha halls; Sangam Hall houses married scholars (single) and first-year M.Tech. women students (2-sharing).",
+  "messNote": "Each hall mess serves four meals a day (breakfast, lunch, snacks, dinner) and mess membership is compulsory for residents; halls also have common rooms, gyms, Wi-Fi/LAN rooms and 24x7 hostel offices under a Warden and Hall Council.",
+  "hostels": [
+    { "name": "Brahmaputra Hall of Residence", "gender": "boys" },
+    { "name": "Mahanadi Hall of Residence", "gender": "boys" },
+    { "name": "Rushikulyaa Hall of Residence", "gender": "boys" },
+    { "name": "Ganga Hall of Residence", "gender": "girls" },
+    { "name": "Subarnarekha Hall of Residence", "gender": "girls" },
+    { "name": "Sangam Hall of Residence", "gender": "mixed" }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/hall-of-residence/",
+      "title": "Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/brahmaputra-hall-of-residence/",
+      "title": "Brahmaputra Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/mahanadi-hall-of-residence/",
+      "title": "Mahanadi Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/rushikulyaa-hall-of-residence/",
+      "title": "Rushikulyaa Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/ganga-hall-of-residence/",
+      "title": "Ganga Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/subarnarekha-hall-of-residence/",
+      "title": "Subarnarekha Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/students-life-iitbbs/sangam-hall-of-residence/",
+      "title": "Sangam Hall of Residence",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}

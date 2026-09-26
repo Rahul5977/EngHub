@@ -1,0 +1,30 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "count": 10,
+  "capacity": 5866,
+  "occupancy": "Room-sharing is not uniformly published; Jasper allots one room per resident, while Amber runs mixed single/double sharing across roughly 800 rooms for about 1,600 residents.",
+  "messNote": "Each hostel runs its own mess/canteen; Rosaline & Ruby's mess hall has separate vegetarian, non-vegetarian and mixed floors, and several halls add canteens for late-night snacks. Meal timings and membership rules are set by individual hostel administrations and not published centrally.",
+  "hostels": [
+    { "name": "Amber Hostel", "gender": "boys" },
+    { "name": "Diamond Hostel", "gender": "boys" },
+    { "name": "Jasper Hostel", "gender": "boys" },
+    { "name": "Sapphire Hostel", "gender": "boys" },
+    { "name": "Topaz Hostel", "gender": "boys" },
+    { "name": "Aquamarine Hostel", "gender": "boys" },
+    { "name": "Emerald Hostel", "gender": "girls" },
+    { "name": "Opal Hostel", "gender": "girls" },
+    { "name": "Rosaline & Ruby Hostel", "gender": "girls" },
+    { "name": "International Hostel", "gender": "mixed" }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitism.ac.in/hostel-affairs",
+      "title": "Hostel Affairs / Halls of Residence",
+      "publisher": "IIT (ISM) Dhanbad",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}

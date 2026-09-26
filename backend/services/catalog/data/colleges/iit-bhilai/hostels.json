@@ -1,0 +1,22 @@
+{
+  "instituteId": "iit-bhilai",
+  "count": 2,
+  "capacity": 530,
+  "occupancy": null,
+  "messNote": "Each hostel has its own dining hall plus indoor-games and fitness areas; rooms are Wi-Fi/LAN enabled with RO drinking-water points and washing machines on every floor. The institute's public pages do not publish per-room sharing patterns or mess-vendor details.",
+  "hostels": [
+    { "name": "Castle Ena", "gender": "unknown" },
+    { "name": "Castle Dio", "gender": "unknown" }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility",
+      "title": "Institute Facilities - Halls of Residence",
+      "publisher": "IIT Bhilai",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}

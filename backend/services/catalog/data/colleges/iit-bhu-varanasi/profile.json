@@ -1,0 +1,113 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "officialName": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+  "short": "IIT (BHU) Varanasi",
+  "type": "IIT",
+  "established": 1919,
+  "website": "https://www.iitbhu.ac.in",
+  "about": "IIT (BHU) Varanasi grew out of Banaras Engineering College, founded in 1919 within Pandit Madan Mohan Malviya's Banaras Hindu University, and became an Institute of National Importance by Act of Parliament in 2012. Set on about 425 acres inside the larger BHU campus, it runs seventeen undergraduate departments spanning engineering, architecture and pharmaceutical engineering, plus basic-science and humanities divisions and postgraduate/doctoral programmes. In NIRF 2025 it ranked 10th among engineering institutes and 31st overall, and its QS World rank rose to 510 for 2027.",
+  "location": {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "campusAcres": 425,
+    "nearestAirport": "Lal Bahadur Shastri International Airport, Babatpur (Varanasi)",
+    "nearestRailway": "Varanasi Cantt (Varanasi Junction), about 10 km",
+    "connectivityNote": "The institute sits inside the Banaras Hindu University campus in Varanasi. Lal Bahadur Shastri International Airport at Babatpur is the nearest airport, roughly 25-30 km by road. Varanasi Cantt (Varanasi Junction) is the main railway station, about 10 km away, with the smaller Banaras and Bhulanpur stations closer to campus.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+        "title": "IIT (BHU) Varanasi",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "admissionRoutes": [
+    {
+      "route": "josaa",
+      "programs": ["B.Tech", "Dual Degree (B.Tech + M.Tech, in-programme conversion)"],
+      "note": "Admission is via JEE (Advanced) rank, with seats allotted through JoSAA counselling; the 5-year Dual Degree is generally reached by converting from B.Tech after the sixth semester rather than as a fresh JoSAA seat.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/ordinance_ug_amended.pdf",
+          "title": "Ordinances Governing Undergraduate Programmes",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "route": "josaa",
+      "programs": ["B.Arch"],
+      "note": "The 5-year B.Arch requires clearing JEE (Advanced) followed by the Architecture Aptitude Test (AAT); qualified candidates then take part in JoSAA counselling.",
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "route": "own-entrance",
+      "programs": ["Ph.D"],
+      "note": "Doctoral admission runs through the institute's own written test and/or interview conducted by the concerned department, separate from JEE-based UG admission.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/doaa/",
+          "title": "Dean, Academic Affairs — Welcome",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitbhu.ac.in/",
+      "title": "IIT (BHU) Varanasi — home page",
+      "publisher": "IIT (BHU) Varanasi",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+      "title": "IIT (BHU) Varanasi",
+      "publisher": "Wikipedia",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "secondary"
+    },
+    {
+      "url": "https://iitbhu.ac.in/contents/iitbhu/docs/nirf_2025_overall_report.pdf",
+      "title": "NIRF'2025 Data Capturing System — Overall (institute-submitted data)",
+      "publisher": "IIT (BHU) Varanasi",
+      "accessedOn": "2026-09-16",
+      "asOf": "2023-24",
+      "confidence": "official"
+    }
+  ],
+  "asOf": "2025-26"
+}

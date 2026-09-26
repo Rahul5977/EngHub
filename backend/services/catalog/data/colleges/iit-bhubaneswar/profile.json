@@ -1,0 +1,129 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "officialName": "Indian Institute of Technology Bhubaneswar",
+  "short": "IIT Bhubaneswar",
+  "type": "IIT",
+  "established": 2008,
+  "website": "https://www.iitbbs.ac.in",
+  "about": "IIT Bhubaneswar opened in 2008 in the second wave of new IITs, on a campus on Barunei Hill in Argul, about 24 km from Bhubaneswar city. It organises teaching and research into seven interdisciplinary schools rather than single-subject departments: basic sciences, infrastructure, mechanical sciences, electrical and computer sciences, minerals and metallurgy, earth-ocean-climate sciences, and humanities-management. Undergraduate seats fill via JEE Advanced and JoSAA, mixing four-year B.Tech tracks with five-year dual-degree options. It was the first IIT to offer Odissi dance for B.Tech credit.",
+  "location": {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "campusAcres": 936,
+    "nearestAirport": "Biju Patnaik International Airport, Bhubaneswar (~35 km)",
+    "nearestRailway": "Khurda Road Junction (~4 km)",
+    "connectivityNote": "The campus sits on Barunei Hill in Argul, Khordha district, roughly 24 km south of Bhubaneswar city and about 4 km from Khurda Road Junction, a major railway junction on the Howrah-Chennai line.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhubaneswar",
+        "title": "Indian Institute of Technology Bhubaneswar - Wikipedia (infobox: campus 936 acres; Biju Patnaik Airport 35 km; Khurda Road station 4 km)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      },
+      {
+        "url": "https://www.iitbbs.ac.in/index.php/home/history-of-the-campus/",
+        "title": "History of the Campus - IIT Bhubaneswar (main campus at Barunei Hill, Argul, Khordha, Odisha)",
+        "publisher": "IIT Bhubaneswar",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ],
+    "asOf": null
+  },
+  "admissionRoutes": [
+    {
+      "route": "josaa",
+      "programs": ["B.Tech", "B.Tech + M.Tech (Dual Degree)", "B.Sc.-B.Ed. (ITEP)"],
+      "note": "Undergraduate seats in the eight B.Tech branches and the dual-degree B.Tech+M.Tech tracks fill through JEE Advanced rank via JoSAA's central counselling; the NEP-aligned B.Sc.-B.Ed. ITEP is listed alongside them on the UG admission page.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/admission/",
+          "title": "Admission - IIT Bhubaneswar (B.Tech, Dual Degree, B.Sc.-B.Ed. ITEP, M.Tech, MSR, M.Sc., Ph.D. programme links)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhubaneswar)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "route": "gate",
+      "programs": ["M.Tech", "M.S. by Research"],
+      "note": "Master's admission (M.Tech and M.S. by Research) runs primarily on GATE scores, alongside institute-run selection steps listed on the academics admission portal.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhubaneswar",
+          "title": "Indian Institute of Technology Bhubaneswar - Wikipedia (admission via JEE Advanced for bachelor's and GATE for master's programmes)",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/admission/",
+          "title": "Admission - IIT Bhubaneswar (M.Tech Programmes, M.S. by Research Programmes)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "route": "other",
+      "programs": ["Ph.D.", "M.Sc."],
+      "note": "PhD admission is a round-the-year, rolling process run separately by each of the seven schools, with a distinct application, shortlisting, test/interview and offer cycle; M.Sc. programmes admit through their own national entrance route.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/academics/admission/",
+          "title": "Admission - IIT Bhubaneswar (Ph.D Round the Year Admission; M.Sc. Programmes)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/home/about/",
+      "title": "About IIT Bhubaneswar (established 22 July 2008; vision, mission, seven schools)",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitbbs.ac.in/index.php/home/academics/",
+      "title": "Academics - IIT Bhubaneswar (eight B.Tech branches, dual degree table, ITEP, schools without UG B.Tech)",
+      "publisher": "IIT Bhubaneswar",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhubaneswar",
+      "title": "Indian Institute of Technology Bhubaneswar - Wikipedia (first IIT to offer Odissi dance as a B.Tech subject, 2015)",
+      "publisher": "Wikipedia",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "secondary"
+    }
+  ],
+  "asOf": null
+}

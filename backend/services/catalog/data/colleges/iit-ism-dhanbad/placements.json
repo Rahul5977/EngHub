@@ -1,0 +1,69 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "years": [
+    {
+      "year": "2025-26",
+      "avgLpa": 17.95,
+      "medianLpa": 14.15,
+      "highestLpa": null,
+      "pctPlaced": 80.57,
+      "offers": 1153,
+      "ppos": 196,
+      "higherStudiesPct": null,
+      "topRecruiters": [],
+      "branchWise": [
+        { "program": "B.Tech", "avgLpa": 17.95, "medianLpa": 14.15, "pctPlaced": 80.57 },
+        { "program": "Double Major (B.Tech + B.Tech)", "avgLpa": 26.78, "medianLpa": 26.49, "pctPlaced": 100.0 },
+        { "program": "Dual Degree (B.Tech + M.Tech)", "avgLpa": 31.07, "medianLpa": 23.49, "pctPlaced": 100.0 },
+        { "program": "Integrated M.Tech", "avgLpa": 25.65, "medianLpa": 25.02, "pctPlaced": 80.26 },
+        { "program": "M.Sc.", "avgLpa": 9.16, "medianLpa": 8.0, "pctPlaced": 50.0 },
+        { "program": "M.Sc. Tech", "avgLpa": 13.71, "medianLpa": 15.0, "pctPlaced": 48.61 },
+        { "program": "M.Tech.", "avgLpa": 11.02, "medianLpa": 9.5, "pctPlaced": 57.02 },
+        { "program": "MBA", "avgLpa": 11.64, "medianLpa": 12.5, "pctPlaced": 93.44 }
+      ],
+      "sources": [
+        {
+          "url": "http://www.iitism.ac.in/storage/files/placement-report-30062026.pdf",
+          "title": "Placement Report, Academic Year 2025-2026 (last updated 30.06.2026)",
+          "publisher": "IIT (ISM) Dhanbad - Career Development Centre (CDC)",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "year": "2024-25",
+      "avgLpa": 19.38,
+      "medianLpa": 15.0,
+      "highestLpa": null,
+      "pctPlaced": 87.8,
+      "offers": 1270,
+      "ppos": 221,
+      "higherStudiesPct": null,
+      "topRecruiters": [],
+      "branchWise": [
+        { "program": "B.Tech", "avgLpa": 19.38, "medianLpa": 15.0, "pctPlaced": 87.8 },
+        { "program": "B.Tech + B.Tech", "avgLpa": 30.81, "medianLpa": 25.25, "pctPlaced": 100.0 },
+        { "program": "B.Tech + M.Tech", "avgLpa": 23.64, "medianLpa": 19.69, "pctPlaced": 90.91 },
+        { "program": "Integrated M.Tech", "avgLpa": 28.34, "medianLpa": 26.25, "pctPlaced": 90.54 },
+        { "program": "M.Sc.", "avgLpa": 7.38, "medianLpa": 7.2, "pctPlaced": 93.67 },
+        { "program": "M.Sc. Tech", "avgLpa": 11.27, "medianLpa": 7.88, "pctPlaced": 86.08 },
+        { "program": "M.Tech.", "avgLpa": 10.9, "medianLpa": 9.0, "pctPlaced": 83.03 },
+        { "program": "MBA", "avgLpa": 11.16, "medianLpa": 10.42, "pctPlaced": 93.1 }
+      ],
+      "sources": [
+        {
+          "url": "http://www.iitism.ac.in/storage/files/placement-report-2025-graduated-batch.pdf",
+          "title": "Placement Report, Academic Year 2024-2025",
+          "publisher": "IIT (ISM) Dhanbad - Career Development Centre (CDC)",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2024-25"
+    }
+  ]
+}

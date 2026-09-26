@@ -1,0 +1,201 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "items": [
+    {
+      "q": "When was IIT (BHU) Varanasi established, and how old is it really?",
+      "a": "The engineering college itself dates back to 1919, when it opened as Banaras Engineering College on the BHU campus. Three separate colleges on campus were merged in 1968 to form the Institute of Technology, BHU (IT-BHU), and Parliament converted that institute into a full IIT in June 2012. So the 'IIT' label is recent, but the teaching tradition behind it is over a century old, and the institute marked its centenary in 2019.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+          "title": "IIT (BHU) Varanasi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "Indian Institute of Technology (BHU) Varanasi",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "How does a student get admission into IIT (BHU) Varanasi's B.Tech programs?",
+      "a": "Entry to the undergraduate B.Tech, B.Arch and integrated programs runs through JEE Advanced, with seats allotted via JoSAA's joint counselling process, exactly like every other IIT. Postgraduate seats are filled separately through GATE for M.Tech and GPAT for M.Pharm applicants, not through JoSAA.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "Indian Institute of Technology (BHU) Varanasi",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+          "title": "IIT (BHU) Varanasi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "Is IIT (BHU) Varanasi a lower-tier IIT just because it converted from IT-BHU in 2012?",
+      "a": "That framing undersells it. IT-BHU was already a well-regarded engineering institute before its 2012 conversion, and the institute has continued to place around 10th nationally in the NIRF Engineering rankings in recent years, ahead of several IITs that were founded earlier as IITs. The 2012 change was a legal and administrative one, not a reset of its academic standing.",
+      "asOf": "2025",
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi/status/1963583747464241594",
+          "title": "IIT (BHU), Varanasi NIRF 2025 Rankings announcement",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What is IIT (BHU) Varanasi's current NIRF ranking?",
+      "a": "In the NIRF 2025 rankings the institute held the 10th position nationally in the Engineering category, the same rank it held the previous year. It also entered the NIRF Research category for the first time in 2025 and was placed 22nd nationally there.",
+      "asOf": "2025",
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi/status/1963583747464241594",
+          "title": "IIT (BHU), Varanasi NIRF 2025 Rankings announcement",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "What academic departments and schools does IIT (BHU) Varanasi offer?",
+      "a": "The institute is organised into eleven core engineering departments, including Computer Science, Electrical, Electronics, Mechanical, Civil, Chemical, Metallurgical, Mining, Ceramic, Pharmaceutical and Architecture engineering, alongside separate departments for Chemistry, Physics and Mathematical Sciences. It also runs several newer interdisciplinary schools and a Humanistic Studies department for liberal-arts coursework.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "Indian Institute of Technology (BHU) Varanasi",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Does IIT (BHU) Varanasi offer dual-degree or integrated postgraduate options alongside a plain B.Tech?",
+      "a": "Yes. Alongside the standalone four-year B.Tech, the institute's own fee-structure documentation lists Integrated M.Tech (a five-year IMD track) and Integrated Dual Degree (IDD) programs, which let a student graduate with both a bachelor's and a master's qualification without a separate postgraduate admission round. Availability varies by department, so applicants should check the specific program list at counselling time.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/doaa/fee",
+          "title": "Fee Structure",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "How big is the IIT (BHU) Varanasi campus and where does it sit?",
+      "a": "The institute occupies roughly 425 acres carved out of Banaras Hindu University's much larger campus of around 1,300 acres, in Varanasi, Uttar Pradesh. Because it sits inside the wider BHU campus, students share many university-level facilities such as libraries, health services and open green spaces beyond what the engineering institute maintains on its own.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+          "title": "IIT (BHU) Varanasi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What are the major student-run fests and events at IIT (BHU) Varanasi?",
+      "a": "The institute's student calendar includes Technex, its techno-management fest; Kashiyatra, the cultural fest; Spardha, the inter-college sports meet; and an FMC Weekend built around film and media. These are run largely by student bodies and draw participants from other colleges as well as the campus itself.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+          "title": "IIT (BHU) Varanasi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "How does campus placement work at IIT (BHU) Varanasi?",
+      "a": "Recruitment is coordinated centrally by the institute's Training and Placement Cell, which the institute describes as hosting close to 200 recruiting companies on campus each season across software, core engineering, finance, consulting, analytics and public-sector roles. Exact package figures change every year, so applicants comparing numbers should check the TPC's own year-wise placement report rather than older aggregator estimates.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/cf/tpc",
+          "title": "Training & Placement Cell",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "Does IIT (BHU) Varanasi provide hostel accommodation to its students?",
+      "a": "Yes, the institute maintains multiple residential hostels on campus for its students, run alongside its central library and other student-facing services. Exact hostel names, capacities and room-sharing norms are best confirmed against the institute's own hostel office page at admission time, since these details are periodically revised.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "Indian Institute of Technology (BHU) Varanasi",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "q": "How large is IIT (BHU) Varanasi's student and research community?",
+      "a": "Public figures put total enrolment at roughly 7,980 students, split across about 6,100 undergraduates, 830 postgraduates and just over 1,000 doctoral scholars, supported by several hundred faculty members. The sizeable PhD population points to an active research culture running alongside the institute's larger undergraduate teaching program.",
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+          "title": "IIT (BHU) Varanasi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "q": "What is IIT (BHU) Varanasi's standing in global rankings such as QS?",
+      "a": "In the QS World University Rankings 2025, the institute was placed in the low-500s globally. That is a respectable international showing for an Indian engineering institute, though it is generally the domestic NIRF Engineering ranking, where IIT (BHU) sits close to the top ten, that matters more to JEE applicants choosing between IITs.",
+      "asOf": "2025",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi",
+          "title": "IIT (BHU) Varanasi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "secondary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "instituteId": "iit-delhi",
+  "nirf": [
+    {
+      "year": 2022,
+      "overall": null,
+      "engineering": 2,
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/press-release.php",
+          "title": "NIRF India Rankings 2022 — IIT Delhi Achieves 2nd Rank in Engineering; Jumps to 4th in Management; Features Among Top 3 Research Institutes",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2022"
+    },
+    {
+      "year": 2023,
+      "overall": 3,
+      "engineering": 2,
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/press-release.php",
+          "title": "NIRF India Rankings 2023 — IIT Delhi Among Top Three Educational Institutions in India",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi (NIRF rankings table)",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2023"
+    },
+    {
+      "year": 2024,
+      "overall": 4,
+      "engineering": 2,
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/press-release.php",
+          "title": "NIRF Rankings 2024: IIT Delhi Ranks 2nd in India in Engineering Category",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "official"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi (NIRF rankings table)",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2024"
+    }
+  ],
+  "qs": [
+    {
+      "year": 2024,
+      "world": 150,
+      "asia": 47,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi (QS World rankings)",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2024"
+    },
+    {
+      "year": 2027,
+      "world": 118,
+      "asia": null,
+      "sources": [
+        {
+          "url": "https://home.iitd.ac.in/press-release.php",
+          "title": "QS World University Rankings 2027 — IIT Delhi Achieves 118th Position, Continues to be No. 1 Indian Institute",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2027",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2027"
+    }
+  ],
+  "naac": null
+}

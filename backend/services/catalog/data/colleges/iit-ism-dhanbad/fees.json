@@ -1,0 +1,76 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "years": [
+    {
+      "year": "2026-27",
+      "program": null,
+      "tuition": 200000,
+      "hostel": 5000,
+      "mess": 39000,
+      "other": 48100,
+      "totalYear": 292100,
+      "currency": "INR",
+      "sources": [
+        {
+          "url": "http://www.iitism.ac.in/storage/files/fee-structure-2026-27_1.pdf",
+          "title": "Fee Structure for the AY 2026-27 for JEE (Advanced) Students (4 Yr. B.Tech/Integrated M.Tech/Dual Degree/Preparatory)",
+          "publisher": "IIT (ISM) Dhanbad - Office of Dean Student's Welfare",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026-27"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Tuition Fee Waiver (TFW)",
+      "eligibility": "Open to JEE-Advanced-admitted B.Tech, Dual Degree, Integrated M.Tech and Integrated BS-MS students whose gross annual family income (parents plus student, all sources, before deductions) is Rs 5 lakh or less; not applicable to SC/ST/PwD students, who are already exempt from tuition.",
+      "benefit": "Full tuition waiver when family income is under Rs 1 lakh a year; a two-thirds tuition waiver for the Rs 1-5 lakh band; no waiver above Rs 5 lakh.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/storage/files/tuition-fee-waiver-notice-2026-27.pdf",
+          "title": "Notice: Tuition Fee Waiver (TFW) and Merit-cum-Means Scholarship for AY 2026-27",
+          "publisher": "IIT (ISM) Dhanbad - Office of Dean Student's Welfare",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026-27"
+    },
+    {
+      "name": "Merit-cum-Means (MCM) Scholarship including Free-ship",
+      "eligibility": "Open to B.Tech, Dual Degree, Integrated M.Tech/BS-MS (up to 4th year), M.Sc Tech, M.Sc, M.A. and MBA students with gross annual family income up to Rs 6 lakh; first-years ranked by JEE-Advanced CRL, later years need CGPA 6.0+ and no pending backlog; not for SC/ST/PwD, who are already fee-exempt.",
+      "benefit": "35% of each year's enrolled students are covered on merit: the top 25% get a full tuition refund plus a Rs 1,000/month stipend for 10 months, and the next 10% get only the tuition refund.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/storage/files/tuition-fee-waiver-notice-2026-27.pdf",
+          "title": "Notice: Tuition Fee Waiver (TFW) and Merit-cum-Means Scholarship for AY 2026-27",
+          "publisher": "IIT (ISM) Dhanbad - Office of Dean Student's Welfare",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026-27"
+    },
+    {
+      "name": "Top-Rank Full Tuition Waiver",
+      "eligibility": "The top 10 candidates admitted to IIT (ISM) Dhanbad with a JEE (Advanced) 2026 Common Rank List (CRL) rank up to 1000, conditional on maintaining good academic and disciplinary standing.",
+      "benefit": "Full waiver of the tuition fee for the entire duration of the undergraduate programme.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/jeea",
+          "title": "JEE (Advanced) Admissions - Important Notices",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    }
+  ]
+}

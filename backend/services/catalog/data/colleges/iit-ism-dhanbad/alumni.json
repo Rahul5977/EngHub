@@ -1,0 +1,157 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "notable": [
+    {
+      "name": "Waman Bapuji Metre",
+      "knownFor": "Padma Bhushan (1968); pioneering petroleum geologist, Assam Oil Company and ONGC",
+      "program": null,
+      "batch": 1930,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Waman_Bapuji_Metre",
+          "title": "Waman Bapuji Metre",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "1968"
+    },
+    {
+      "name": "Gulshan Lal Tandon",
+      "knownFor": "Padma Bhushan (1986); pioneer of the Indian mining industry, Chairman of Coal India",
+      "program": "Mining Engineering",
+      "batch": 1951,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gulshan_Lal_Tandon",
+          "title": "Gulshan Lal Tandon",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "1951"
+    },
+    {
+      "name": "Jaswant Singh Gill",
+      "knownFor": "Mining engineer; led the 1989 Raniganj coalfield capsule rescue of 65 trapped miners",
+      "program": "Mining Engineering",
+      "batch": 1965,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaswant_Singh_Gill",
+          "title": "Jaswant Singh Gill",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "1965"
+    },
+    {
+      "name": "Harsh Gupta",
+      "knownFor": "Padma Shri; seismologist known for reservoir-induced earthquake research",
+      "program": "Applied Geophysics (MSc)",
+      "batch": 1963,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Harsh_Gupta",
+          "title": "Harsh Gupta",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://thejharkhandstory.co.in/south-sudan-to-name-its-first-seismological-centre-after-iit-ism-dhanbad-alumnus/",
+          "title": "South Sudan to name its first seismological centre after IIT ISM Dhanbad alumnus",
+          "publisher": "The Jharkhand Story",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "1963"
+    },
+    {
+      "name": "Vijay Prasad Dimri",
+      "knownFor": "Padma Shri (2010); geophysicist, former Director of the National Geophysical Research Institute",
+      "program": null,
+      "batch": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Vijay_Prasad_Dimri",
+          "title": "Vijay Prasad Dimri",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Rabi Narayan Bastia",
+      "knownFor": "Padma Shri (2007); geoscientist credited with the Krishna-Godavari Basin gas discovery",
+      "program": "DSc (Honoris Causa)",
+      "batch": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rabi_Narayan_Bastia",
+          "title": "Rabi Narayan Bastia",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Rakesh Soni",
+      "knownFor": "Co-founder & CEO, LoginRadius (customer identity platform); founded the ISM Angels alumni investor network",
+      "program": null,
+      "batch": null,
+      "sources": [
+        {
+          "url": "https://thewordisgrit.com/about/",
+          "title": "About - Rakesh Soni",
+          "publisher": "Rakesh Soni (personal site)",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://www.loginradius.com/blog/author/rakesh-soni",
+          "title": "Author: Rakesh Soni",
+          "publisher": "LoginRadius",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Shyam Sundar Rai",
+      "knownFor": "Shanti Swarup Bhatnagar Prize laureate (1996); seismologist studying Indian lithosphere structure",
+      "program": "PhD, Geophysics",
+      "batch": 1988,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shyam_Sundar_Rai",
+          "title": "Shyam Sundar Rai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "1988"
+    }
+  ]
+}

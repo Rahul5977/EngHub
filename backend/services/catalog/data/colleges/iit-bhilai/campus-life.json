@@ -1,0 +1,235 @@
+{
+  "instituteId": "iit-bhilai",
+  "summary": {
+    "text": "Student life at IIT Bhilai runs through the Council of Student Affairs (CoSA), split into a Student Gymkhana for technical, cultural, sports and outreach activity, and a Students' Senate for academic concerns. Gymkhana clubs span dance, music, theatre, creative writing, art, photography, electronics, coding, robotics and space exploration, plus an NSS unit running community-service drives. Meraz (techno-cultural) and Prayatna (intramural sports) anchor the yearly calendar; students also compete at the Inter-IIT Sports Meet.",
+    "sources": [
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=students",
+        "title": "Students",
+        "publisher": "IIT Bhilai",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/IIT_Bhilai",
+        "title": "IIT Bhilai",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "clubs": [
+    {
+      "name": "Electronics Club",
+      "category": "technical",
+      "note": "Runs hands-on electronics workshops for students, such as a past Arduino-basics session covered in the institute's news archive.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=happening_iit",
+          "title": "Happenings at IIT Bhilai",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Epsilon",
+      "category": "technical",
+      "note": "Campus club behind logic-and-science events, including an Intra-IIT Science Treasure Hunt noted in the institute's news archive.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=happening_iit",
+          "title": "Happenings at IIT Bhilai",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "IIT Bhilai Motorsports",
+      "category": "technical",
+      "note": "Student engineering club that designs and builds an all-terrain vehicle for national-level collegiate motorsport competitions.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_Bhilai",
+          "title": "IIT Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "National Service Scheme (NSS) IIT Bhilai",
+      "category": "social",
+      "note": "Coordinates voluntary community-service work, including cleanliness drives and blood donation camps run with partner organisations.",
+      "url": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=students",
+          "title": "Students",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=happening_iit",
+          "title": "Happenings at IIT Bhilai",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "fests": [
+    {
+      "name": "Meraz",
+      "type": "other",
+      "month": "October",
+      "footfall": null,
+      "url": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/IIT_Bhilai",
+          "title": "IIT Bhilai",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Prayatna",
+      "type": "sports",
+      "month": null,
+      "footfall": null,
+      "url": "https://sportsandyoga.iitbhilai.ac.in/",
+      "sources": [
+        {
+          "url": "https://sportsandyoga.iitbhilai.ac.in/",
+          "title": "Yoga and Sports",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility",
+          "title": "Institute Facilities - Sports Facilities",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sports": [
+    {
+      "facility": "Cricket",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Football",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Badminton",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Basketball",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Volleyball",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Table Tennis",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Snooker",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Carom",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Chess",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Gymnasium",
+      "sources": [
+        { "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_facility", "title": "Institute Facilities - Sports Facilities", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Athletics",
+      "sources": [
+        { "url": "https://sportsandyoga.iitbhilai.ac.in/", "title": "Yoga and Sports", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Yoga",
+      "sources": [
+        { "url": "https://sportsandyoga.iitbhilai.ac.in/", "title": "Yoga and Sports", "publisher": "IIT Bhilai", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    }
+  ]
+}

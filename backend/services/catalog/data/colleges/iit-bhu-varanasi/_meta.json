@@ -1,0 +1,11 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "collectedOn": "2026-09-16",
+  "packets": ["A", "B", "C", "D"],
+  "verifierReport": {
+    "checked": 14,
+    "confirmed": 12,
+    "nulled": ["placements.years[0].offers", "placements.years[1].offers"],
+    "notes": "Adversarial verification for iit-bhu-varanasi. Checked 14 numeric facts: (1) profile.location.campusAcres 425 [Wikipedia: '425 acres...part of larger 1,300 acres BHU Campus', exact]; (2) academics.facultyCount.value 371 [NIRF'25 Engineering DCS PDF, full faculty roster Srno1-382; 11 rows 'Currently working?=No', 382-11=371, exact recount]; (3) academics.research.phdCount 1196 [NIRF'25 Overall DCS PDF: 'Full Time 1123, Part Time 73'=1196, exact]; same PDF confirms research.note: 453 sponsored projects/Rs44.2cr/100 agencies, 1354 consultancy/Rs27.8cr/915 orgs, 47 granted/49 published 2023 - exact; (4) rankings.nirf 2024 overall=30/engineering=10 [iitbhu.ac.in/nirf, exact]; (5-6) placements 2024-25 avgLpa 24.56 & highestLpa 220 [Annual Report 2024-25 p.277: '24.56 LPA...2.20 Cr. INR', exact]; (7) fees 2019-20 tuition/hostel/other/totalYear 200000/7500/5565/213065 [Fee Structure PDF Annexure-A, recomputed per-semester line items x2, exact]; (8) hostels.count 16 [iitbhu.ac.in/hostels, exact list match]; (9-10) fests Kashiyatra footfall 90000 [Wikipedia: '90,000+', exact] & Spardha 40000 [iitbhufoundation.org: '40,000+', exact]. NULLED: placements years[0](2024-25).offers 1405 & years[1](2023-24).offers 1305 - cited to 'AR2024-25 Figure 4 three-year offer chart', but actual chart on p.277 ('Number of Student Placed') shows 1094/1149/1256 for 2022-23/23-24/24-25, not 1265/1305/1405; no offers figure found elsewhere, so nulled (avgLpa/highestLpa confirmed & kept; 2022-23 offers=1240 not sampled, left as-is). Prose scan: profile.about, history/campus/enrolment/QS faqs, campus-life.summary checked vs live verbatim source quotes (Wikipedia, DOSA) - all original paraphrase, no 12+-word verbatim runs. Schema max-length audit: scripted check of every bounded string field across all 10 files vs schema.ts limits - zero violations."
+  }
+}

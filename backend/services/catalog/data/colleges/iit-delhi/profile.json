@@ -1,0 +1,145 @@
+{
+  "instituteId": "iit-delhi",
+  "officialName": "Indian Institute of Technology Delhi",
+  "short": "IIT Delhi",
+  "type": "IIT",
+  "established": 1961,
+  "website": "https://home.iitd.ac.in",
+  "about": "IIT Delhi began in 1959 as the College of Engineering in Hauz Khas, becoming a full Institute of Technology under a 1963 Act of Parliament, and today runs sixteen engineering and science departments alongside newer schools in artificial intelligence, biological sciences and public policy. Named an Institution of Eminence in 2018, it has placed among India's top two or three engineering institutes in NIRF for several years and cracked the QS World top-120 for 2027. It recently opened a second campus at Sonipat, Haryana, alongside an overseas campus in Abu Dhabi.",
+  "location": {
+    "city": "New Delhi",
+    "state": "Delhi",
+    "campusAcres": 375,
+    "nearestAirport": "Indira Gandhi International Airport, New Delhi",
+    "nearestRailway": "New Delhi Railway Station, about 10-15 km",
+    "connectivityNote": "The Hauz Khas campus sits in south Delhi, next to the Hauz Khas Metro station. Indira Gandhi International Airport is roughly 15-20 km away by road, and New Delhi Railway Station, the city's main railhead, is about 10-15 km away. IIT Delhi also runs a newer campus at Sonipat, Haryana, outside the capital, and an overseas campus in Abu Dhabi.",
+    "sources": [
+      {
+        "url": "https://home.iitd.ac.in/contact.php",
+        "title": "Directions to IIT Delhi (campus address and nearest airport/railway/metro)",
+        "publisher": "IIT Delhi",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+        "title": "Indian Institute of Technology Delhi",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "admissionRoutes": [
+    {
+      "route": "josaa",
+      "programs": ["B.Tech", "B.Tech + M.Tech (Dual Degree)"],
+      "note": "Admission to B.Tech and the 5-year B.Tech+M.Tech Dual Degree programmes, including the B.Tech in Design, runs through JEE (Advanced) rank with seats allotted via JoSAA counselling.",
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://academics.iitd.ac.in/ug-admissions/",
+          "title": "UG Admissions",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "route": "gate",
+      "programs": ["M.Tech", "MS (Research)"],
+      "note": "M.Tech and MS (Research) admission is based on a qualifying national exam such as GATE or JAM, per the requirements each academic unit sets for its programme.",
+      "sources": [
+        {
+          "url": "https://academics.iitd.ac.in/postgraduate-programs/",
+          "title": "Postgraduate Programmes",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "route": "other",
+      "programs": ["MBA"],
+      "note": "The MBA at the Department of Management Studies admits through the CAT score, followed by a group discussion and personal interview.",
+      "sources": [
+        {
+          "url": "https://academics.iitd.ac.in/postgraduate-programs/",
+          "title": "Postgraduate Programmes",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "route": "own-entrance",
+      "programs": ["Ph.D"],
+      "note": "Ph.D admission runs through the concerned Department/Centre/School, which typically combines a written test and/or interview and may set extra requirements for its own academic goals, separate from JEE-based UG admission.",
+      "sources": [
+        {
+          "url": "https://academics.iitd.ac.in/postgraduate-programs/",
+          "title": "Postgraduate Programmes",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://academics.iitd.ac.in/ph-d-ordinance/",
+          "title": "Ph.D Ordinance",
+          "publisher": "IIT Delhi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://home.iitd.ac.in/",
+      "title": "IIT Delhi — home page",
+      "publisher": "IIT Delhi",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://home.iitd.ac.in/about.php",
+      "title": "About IIT Delhi",
+      "publisher": "IIT Delhi",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+      "title": "Indian Institute of Technology Delhi",
+      "publisher": "Wikipedia",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "secondary"
+    }
+  ],
+  "asOf": "2025-26"
+}

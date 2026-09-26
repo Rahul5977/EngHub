@@ -1,0 +1,92 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "years": [
+    {
+      "year": "2019-20",
+      "program": null,
+      "tuition": 200000,
+      "hostel": 7500,
+      "mess": null,
+      "other": 5565,
+      "totalYear": 213065,
+      "currency": "INR",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/fee_ug_19-20.pdf",
+          "title": "Fee Structure of IIT (BHU) — 4-Year B.Tech./B.Pharm. and 5-Year IDD/B.Arch., w.e.f. Session 2019-20 onwards (still the current UG schedule on the DOAA fee page)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2019-20",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2019-20"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "SC/ST/PwD Tuition & Hostel Seat-Rent Waiver",
+      "eligibility": "All regular SC, ST and PwD-category students (including OBC-PD/SC-PD/ST-PD) admitted to the 4-year B.Tech/B.Pharm or 5-year IDD/B.Arch programmes at IIT (BHU).",
+      "benefit": "Full exemption from the semester tuition fee and the hostel seat-rent charge; the remaining semester dues (mess, gymkhana, medical, utilities, etc.) still apply as for other students.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/fee_ug_19-20.pdf",
+          "title": "Fee Structure of IIT (BHU), Session 2019-20 onwards — footnote on SC/ST/PwD tuition and seat-rent exemption",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2019-20",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2019-20"
+    },
+    {
+      "name": "Family-Income-Based Tuition Concession",
+      "eligibility": "GEN/OBC/EWS B.Tech, B.Pharm, IDD and B.Arch students whose family income is below Rs 5 lakh a year, as declared and verified at admission.",
+      "benefit": "Students with family income under Rs 1 lakh a year pay no semester tuition fee; those with income between Rs 1-5 lakh pay about one-third of the standard tuition (roughly Rs 33,333 instead of Rs 1,00,000 per semester).",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/fee_ug_19-20.pdf",
+          "title": "Fee Structure of IIT (BHU), Session 2019-20 onwards — tuition-fee slabs by family income",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2019-20",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2019-20"
+    },
+    {
+      "name": "Merit-cum-Means Scholarship",
+      "eligibility": "Undergraduate students selected on a combination of academic merit and demonstrated family financial need; the scheme is designed to cover up to about 25 percent of the UG student body.",
+      "benefit": "A need-linked scholarship stipend administered by the Dean of Academic Affairs office; the payout amount is set for each academic session and was not published with a figure on the institute's page at the time of collection.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/doaa/scholarship",
+          "title": "DOAA — Scholarships/Financial Assistance (Merit-cum-Means Scholarship for ~25% of UG students)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "SC/ST Free Studentship, Mess Reimbursement & Pocket Allowance",
+      "eligibility": "Undergraduate students belonging to the Scheduled Castes and Scheduled Tribes categories.",
+      "benefit": "Institute free-studentship (tuition waiver), reimbursement of mess charges, and a monthly pocket allowance, administered by the Dean of Academic Affairs office alongside the Top Class Education Scheme routed through the National Scholarship Portal.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/dean/doaa/scholarship",
+          "title": "DOAA — Scholarships/Financial Assistance (SC/ST free studentship, mess-charge reimbursement, pocket allowance)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ]
+}

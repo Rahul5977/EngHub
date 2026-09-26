@@ -1,0 +1,415 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "summary": {
+    "text": "Student life at IIT (ISM) Dhanbad runs through the Students' Gymkhana, whose Science & Technology, Sports & Games and Media & Culture wings back technical, cultural, literary and media clubs plus a separate Entrepreneurship Cell. The fest calendar centres on the tech festival Concetto every October, alongside the cultural fest Srijan, techno-mining fest Khannan and sports fest Parakram. Day-to-day recreation runs through the Sports and Physical Education Centre, whose grounds and courts cover most major sports plus a 50 m pool and gymnasium.",
+    "sources": [
+      {
+        "url": "https://www.iitism.ac.in/students-gymkhana",
+        "title": "Students' Gymkhana",
+        "publisher": "IIT (ISM) Dhanbad",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitism.ac.in/student-activities",
+        "title": "Student Clubs / Student Activities",
+        "publisher": "IIT (ISM) Dhanbad",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_(Indian_School_of_Mines)_Dhanbad",
+        "title": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "clubs": [
+    {
+      "name": "Literary and Debating Club (LITC)",
+      "category": "literary",
+      "note": "Trains students in formal debate, extempore and public speaking for inter-college competitions.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Legends in The Making (LITM)",
+      "category": "cultural",
+      "note": "Contemporary/hip-hop dance society; choreographs performances for institute fests and inter-college meets.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Book Club",
+      "category": "literary",
+      "note": "Runs reading circles and book discussions for students interested in literature.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Manthan Club",
+      "category": "cultural",
+      "note": "Music society for instrumentalists and vocalists; performs at cultural nights and institute fests.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Artfreaks",
+      "category": "cultural",
+      "note": "Visual-arts society for painting, sketching and design; contributes artwork for campus events.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "FotoFreaks",
+      "category": "media",
+      "note": "Photography society documenting institute events and everyday campus life.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Quiz Club",
+      "category": "literary",
+      "note": "Organises campus quizzes and trains teams for inter-college quizzing competitions.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Chayanika Sangh",
+      "category": "literary",
+      "note": "Hindi literary society promoting Hindi writing, poetry and debate on campus.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "We The Crew (WTC)",
+      "category": "cultural",
+      "note": "Street/hip-hop dance crew performing at institute fests and inter-college dance events.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Mic.Drop",
+      "category": "literary",
+      "note": "Public-speaking and spoken-word society; hosts open-mic, rap and poetry events on campus.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "aBhAy Dramatics Club (ADC)",
+      "category": "cultural",
+      "note": "Theatre society staging plays and skits at institute fests and inter-college drama meets.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Lights Camera ISM (LCI)",
+      "category": "media",
+      "note": "Filmmaking society producing short films; runs the LightsCameraISM festival welcoming new students.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Live Talks ISM (LTI)",
+      "category": "media",
+      "note": "Podcasting society producing student-hosted podcast episodes and live talk events.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Udaan",
+      "category": "other",
+      "note": "Career-development society helping students with career planning and professional skill-building.",
+      "url": null,
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-activities", "title": "Student Clubs / Student Activities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Smart Manufacturing Club",
+      "category": "technical",
+      "note": "Technical club focused on smart-manufacturing and Industry 4.0 projects.",
+      "url": "https://in.linkedin.com/company/smart-manufacturing-club",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Electric Mobility Club",
+      "category": "technical",
+      "note": "Technical club building EV and electric-mobility projects; runs the MechISM Racing team.",
+      "url": "https://www.instagram.com/mechismuracing/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Aeronautics and Space Technology Club (ARKA)",
+      "category": "technical",
+      "note": "Technical club for aeronautics and space-tech projects, including rocketry and UAV builds.",
+      "url": "https://www.instagram.com/arka_iit_ism/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Data and Software Technology Club (CyberLabs)",
+      "category": "technical",
+      "note": "Technical club for software development, data science and competitive programming.",
+      "url": "https://www.instagram.com/cyberlabs_iitism/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Robotronics Club",
+      "category": "technical",
+      "note": "Robotics club building and competing with autonomous and remote-controlled robots.",
+      "url": "https://roboism.in/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Finance Technology Club",
+      "category": "technical",
+      "note": "Fintech-focused club covering algorithmic trading, blockchain and financial-markets projects.",
+      "url": "https://www.instagram.com/fintech_iitism/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Electronics and IoT Club",
+      "category": "technical",
+      "note": "Club for electronics, embedded systems and Internet-of-Things projects.",
+      "url": "https://www.instagram.com/electronicsandiotclubiitism/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Animation and Game Design Club",
+      "category": "technical",
+      "note": "Club for animation, 3D modelling and game-development projects.",
+      "url": "https://www.instagram.com/animationandgamedesign/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Product Management Club",
+      "category": "entrepreneurship",
+      "note": "Trains students in product management, market research and product-strategy skills.",
+      "url": "https://www.instagram.com/pm_club.iitism/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Entrepreneurship Cell (E-Cell)",
+      "category": "entrepreneurship",
+      "note": "Runs startup events, hackathons and mentorship programmes for student founders.",
+      "url": "https://www.instagram.com/ecell_iitism/",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    }
+  ],
+  "fests": [
+    {
+      "name": "Concetto",
+      "type": "technical",
+      "month": "October",
+      "footfall": 20000,
+      "url": "https://www.concetto.in/",
+      "sources": [
+        { "url": "https://www.concetto.in/", "title": "Concetto - IIT (ISM) Dhanbad Tech Fest", "publisher": "Concetto (IIT ISM Dhanbad)", "accessedOn": "2026-09-16", "asOf": "2025", "confidence": "official" },
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": "2025"
+    },
+    {
+      "name": "Khannan",
+      "type": "technical",
+      "month": null,
+      "footfall": null,
+      "url": null,
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_(Indian_School_of_Mines)_Dhanbad", "title": "Indian Institute of Technology (Indian School of Mines) Dhanbad", "publisher": "Wikipedia", "accessedOn": "2026-09-16", "asOf": null, "confidence": "secondary" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Srijan",
+      "type": "cultural",
+      "month": null,
+      "footfall": null,
+      "url": null,
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_(Indian_School_of_Mines)_Dhanbad", "title": "Indian Institute of Technology (Indian School of Mines) Dhanbad", "publisher": "Wikipedia", "accessedOn": "2026-09-16", "asOf": null, "confidence": "secondary" }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Parakram",
+      "type": "sports",
+      "month": null,
+      "footfall": null,
+      "url": null,
+      "sources": [
+        { "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_(Indian_School_of_Mines)_Dhanbad", "title": "Indian Institute of Technology (Indian School of Mines) Dhanbad", "publisher": "Wikipedia", "accessedOn": "2026-09-16", "asOf": null, "confidence": "secondary" }
+      ],
+      "asOf": null
+    }
+  ],
+  "sports": [
+    {
+      "facility": "Football Ground",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "400 m Athletics Track (8 lanes, floodlit)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Cricket Ground (turf pitch)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Basketball Courts",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Volleyball Courts",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Tennis Courts",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Badminton Courts (4, synthetic floor)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Swimming Pool (50 m, with diving boards)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Gymnasium (separate for men and women)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Boxing Ring",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Billiards Room (3 tables)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Squash Court (international standard)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "facility": "Yoga Centre",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/facilities-dsw", "title": "SPEC Facilities", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    }
+  ]
+}

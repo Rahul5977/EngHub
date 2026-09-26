@@ -1,0 +1,121 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "years": [
+    {
+      "year": "2024-25",
+      "avgLpa": 24.56,
+      "medianLpa": null,
+      "highestLpa": 220,
+      "pctPlaced": null,
+      "offers": null,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Microsoft", "sector": "software" },
+        { "name": "Amazon", "sector": "software" },
+        { "name": "Databricks", "sector": "analytics" },
+        { "name": "Samsung", "sector": "software" }
+      ],
+      "branchWise": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/annual_report_english_2024-25.pdf",
+          "title": "Annual Report 2024-25, Sec. 1.7 Training and Placement (companies, offers, average CTC, highest package, Figure 4 three-year offer chart)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.dnaindia.com/education/report-iit-bhu-student-gets-highest-package-of-rs-average-package-in-2025-is-3131328",
+          "title": "IIT-BHU student gets highest package of Rs 2.2 crore, average package in 2025 is Rs 22.79 lakh",
+          "publisher": "DNA India",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://news.careers360.com/iit-bhu-placements-2024-25-more-job-role-international-offers-fewer-ppos-highest-salary-package-at-rs-2-2-crore",
+          "title": "IIT BHU Placements 2024-25: More Job Roles, International Offers, Fewer PPOs; Highest Package at Rs 2.2 Crore",
+          "publisher": "Careers360",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2024-25"
+    },
+    {
+      "year": "2023-24",
+      "avgLpa": 22.56,
+      "medianLpa": null,
+      "highestLpa": 168,
+      "pctPlaced": null,
+      "offers": null,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [{ "name": "N.K. Securities", "sector": "finance" }],
+      "branchWise": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/annual_report_english_2023-24.pdf",
+          "title": "Annual Report 2023-24, Training and Placement chapter (352 companies, average CTC INR 22.56 LPA, highest package Rs 1.68 Cr by N.K. Securities)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023-24",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/annual_report_english_2024-25.pdf",
+          "title": "Annual Report 2024-25, Figure 4 (three-year bar chart of total offers: 2022-23=1265, 2023-24=1305, 2024-25=1405)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2023-24"
+    },
+    {
+      "year": "2022-23",
+      "avgLpa": 22.77,
+      "medianLpa": null,
+      "highestLpa": 120,
+      "pctPlaced": null,
+      "offers": 1240,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "JP Morgan Chase & Co.", "sector": "finance" },
+        { "name": "Amazon", "sector": "software" },
+        { "name": "Google", "sector": "software" },
+        { "name": "BNY Mellon", "sector": "finance" },
+        { "name": "Javis", "sector": "startup" },
+        { "name": "Accenture Japan Ltd.", "sector": "consulting" },
+        { "name": "App Dynamics", "sector": "software" },
+        { "name": "Cisco", "sector": "software" },
+        { "name": "Hilabs", "sector": "startup" },
+        { "name": "Goldman Sachs", "sector": "finance" },
+        { "name": "DE Shaw", "sector": "finance" },
+        { "name": "Cashfree Payments", "sector": "startup" },
+        { "name": "Flipkart", "sector": "software" },
+        { "name": "DealShare", "sector": "startup" },
+        { "name": "Amagi Media Labs", "sector": "software" },
+        { "name": "Graviton", "sector": "startup" }
+      ],
+      "branchWise": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/annual_report_english_2022-23.pdf",
+          "title": "Annual Report 2022-23, Ch. 27 Training and Placement Cell (offers 1240, domestic/international split, average CTC by year, top-5 highest CTC, Annexure-I recruiter list with offer counts)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022-23",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2022-23"
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "departments": [
+    {
+      "name": "Architecture, Planning & Design",
+      "programs": [
+        { "degree": "B.Arch", "name": "Architecture", "durationYears": 5, "intake": 26 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Biochemical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Biochemical Engineering", "durationYears": 4, "intake": 25 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Biomedical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Biomedical Engineering", "durationYears": 4, "intake": 21 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Ceramic Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Ceramic Engineering", "durationYears": 4, "intake": 75 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Chemical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Chemical Engineering", "durationYears": 4, "intake": 170 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Civil Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Civil Engineering", "durationYears": 4, "intake": 160 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Computer Science and Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Computer Science and Engineering", "durationYears": 4, "intake": 155 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/dept/cse",
+          "title": "CSE — Welcome",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Electrical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electrical Engineering", "durationYears": 4, "intake": 150 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Electronics Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Electronics Engineering", "durationYears": 4, "intake": 155 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Physics",
+      "programs": [
+        { "degree": "B.Tech", "name": "Engineering Physics", "durationYears": 4, "intake": 40 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Chemistry",
+      "programs": [
+        { "degree": "B.Tech", "name": "Industrial Chemistry", "durationYears": 4, "intake": 24 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Materials Science and Technology",
+      "programs": [
+        { "degree": "B.Tech", "name": "Materials Science and Technology", "durationYears": 4, "intake": 28 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mathematical Sciences",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mathematics and Computing", "durationYears": 4, "intake": 65 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mechanical Engineering", "durationYears": 4, "intake": 190 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Metallurgical Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Metallurgical Engineering", "durationYears": 4, "intake": 110 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Mining Engineering",
+      "programs": [
+        { "degree": "B.Tech", "name": "Mining Engineering", "durationYears": 4, "intake": 120 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "name": "Pharmaceutical Engineering & Technology",
+      "programs": [
+        { "degree": "B.Tech", "name": "Pharmaceutical Engineering & Technology", "durationYears": 4, "intake": 75 }
+      ],
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    }
+  ],
+  "facultyCount": {
+    "value": 371,
+    "sources": [
+      {
+        "url": "https://iitbhu.ac.in/contents/iitbhu/docs/nirf_2025_engg_report.pdf",
+        "title": "NIRF'2025 Data Capturing System — Engineering (faculty roster, institute-submitted data)",
+        "publisher": "IIT (BHU) Varanasi",
+        "accessedOn": "2026-09-16",
+        "asOf": "2024-25",
+        "confidence": "official"
+      }
+    ],
+    "asOf": "2024-25"
+  },
+  "curriculumHighlights": [
+    {
+      "text": "Academic year runs two regular semesters — autumn from the fourth week of July, spring from the last week of December — each about 18 weeks with two periodicals plus an end-semester exam, and an optional faster-paced summer term of roughly nine weeks.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/ordinance_ug_amended.pdf",
+          "title": "Ordinances Governing Undergraduate Programmes",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "Change of branch is a one-time option: students may apply at the end of semester II if their CPI is at least 8.0 and they have cleared every first-year course, subject to each class staying within about 10% of its sanctioned strength.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/ordinance_ug_amended.pdf",
+          "title": "Ordinances Governing Undergraduate Programmes",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "B.Tech/B.Pharm students can apply to convert into the matching 5-year Integrated Dual Degree (B.Tech-M.Tech or B.Pharm-M.Pharm) before 7th-semester registration, needing a minimum CPI of 6.5 (relaxable to 6.0 for strong research potential) and Senate approval.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/ordinance_ug_amended.pdf",
+          "title": "Ordinances Governing Undergraduate Programmes",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "A student typically registers for about 50-60 credits a semester; from the third semester DUGC approval can add a 5-10 credit research-unit overload on top of the normal load.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/ordinance_ug_amended.pdf",
+          "title": "Ordinances Governing Undergraduate Programmes",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "Performance is tracked through letter grades converted into a credit-weighted Semester Performance Index (SPI) each term and a Cumulative Performance Index (CPI) across all completed semesters.",
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/contents/institute/dean/doaa/doc/ordinance_ug_amended.pdf",
+          "title": "Ordinances Governing Undergraduate Programmes",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "text": "Seventeen undergraduate departments run 4-year B.Tech programmes (including newer schools such as Biomedical Engineering, Materials Science and Pharmaceutical Engineering & Technology) alongside a 5-year B.Arch.",
+      "sources": [
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix — Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhu.ac.in/",
+          "title": "IIT (BHU) Varanasi — home page (departments and schools)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    }
+  ],
+  "research": {
+    "note": "The institute's NIRF'2025 filing reports 1,123 full-time and 73 part-time Ph.D scholars (including Integrated Ph.D). In 2023-24 it ran 453 sponsored-research projects worth about Rs 44.2 crore from 100 funding agencies, and 1,354 consultancy projects worth about Rs 27.8 crore for 915 client organisations. 47 patents were granted and 49 published in calendar 2023.",
+    "phdCount": 1196,
+    "sources": [
+      {
+        "url": "https://iitbhu.ac.in/contents/iitbhu/docs/nirf_2025_overall_report.pdf",
+        "title": "NIRF'2025 Data Capturing System — Overall (institute-submitted data)",
+        "publisher": "IIT (BHU) Varanasi",
+        "accessedOn": "2026-09-16",
+        "asOf": "2023-24",
+        "confidence": "official"
+      }
+    ],
+    "asOf": "2023-24"
+  }
+}

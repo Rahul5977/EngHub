@@ -1,0 +1,193 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "official": [
+    {
+      "platform": "instagram",
+      "handle": "iitbhu.varanasi",
+      "url": "https://www.instagram.com/iitbhu.varanasi/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/iitbhu.varanasi/",
+          "title": "IIT (BHU), Varanasi (Instagram)",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "x",
+      "handle": "IITBHU_Varanasi",
+      "url": "https://x.com/IITBHU_Varanasi",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi",
+          "title": "IIT (BHU), Varanasi (X)",
+          "publisher": "X",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "pr.iitbhu",
+      "url": "https://www.facebook.com/pr.iitbhu/",
+      "owner": "Institute",
+      "sources": [
+        {
+          "url": "https://www.facebook.com/pr.iitbhu/posts/we-are-delighted-to-announce-the-successful-theme-launch-event-of-technex-2026-t/1191048123235342/",
+          "title": "IIT (BHU), Varanasi PR page - Technex 2026 theme launch post",
+          "publisher": "Facebook",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "technexiitbhu",
+      "url": "https://www.instagram.com/technexiitbhu/",
+      "owner": "Technex",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/technexiitbhu/",
+          "title": "Technex, IIT (BHU) Varanasi (Instagram)",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "technex-iit-bhu-varanasi",
+      "url": "https://in.linkedin.com/company/technex-iit-bhu-varanasi",
+      "owner": "Technex",
+      "sources": [
+        {
+          "url": "https://in.linkedin.com/company/technex-iit-bhu-varanasi",
+          "title": "Technex, IIT (BHU) Varanasi (LinkedIn)",
+          "publisher": "LinkedIn",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "kashiyatra_iitbhu",
+      "url": "https://www.instagram.com/kashiyatra_iitbhu/",
+      "owner": "Kashiyatra",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/kashiyatra_iitbhu/",
+          "title": "Kashiyatra, IIT (BHU) Varanasi (Instagram)",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "kashiyatra.IITBHU",
+      "url": "https://www.facebook.com/kashiyatra.IITBHU/",
+      "owner": "Kashiyatra",
+      "sources": [
+        {
+          "url": "https://www.facebook.com/kashiyatra.IITBHU/",
+          "title": "Kashiyatra, IIT BHU Varanasi (Facebook)",
+          "publisher": "Facebook",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "kashiyatra-iitbhu",
+      "url": "https://in.linkedin.com/company/kashiyatra-iitbhu",
+      "owner": "Kashiyatra",
+      "sources": [
+        {
+          "url": "https://in.linkedin.com/company/kashiyatra-iitbhu",
+          "title": "Kashiyatra, IIT (BHU) Varanasi (LinkedIn)",
+          "publisher": "LinkedIn",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "spardha_iitbhu",
+      "url": "https://www.instagram.com/spardha_iitbhu/",
+      "owner": "Spardha",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/spardha_iitbhu/",
+          "title": "Spardha_IIT(BHU) Varanasi (Instagram)",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "Spardha.IIT.BHU",
+      "url": "https://www.facebook.com/Spardha.IIT.BHU/",
+      "owner": "Spardha",
+      "sources": [
+        {
+          "url": "https://www.facebook.com/Spardha.IIT.BHU/",
+          "title": "Spardha - IIT (BHU), Varanasi (Facebook)",
+          "publisher": "Facebook",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "ecelliitbhu",
+      "url": "https://www.instagram.com/ecelliitbhu/",
+      "owner": "E-Cell",
+      "sources": [
+        {
+          "url": "https://www.instagram.com/ecelliitbhu/",
+          "title": "E-Cell IIT BHU (Instagram)",
+          "publisher": "Instagram",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "creators": []
+}

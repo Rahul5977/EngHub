@@ -1,0 +1,128 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "nirf": [
+    {
+      "year": 2022,
+      "overall": 38,
+      "engineering": 14,
+      "sources": [
+        {
+          "url": "https://collegewollege.com/college/ism-dhanbad-indian-institute-of-technology-iitism-dhanbad-c11721/rankings",
+          "title": "IIT (ISM) Dhanbad Rankings (NIRF Overall #38 of 200, NIRF Engineering #14 of 300 in 2022)",
+          "publisher": "CollegeWollege",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://collegedunia.com/university/25581-ism-dhanbad-indian-institute-of-technology-iitism-dhanbad/ranking",
+          "title": "IIT Dhanbad Ranking - Year-wise National Rankings (NIRF Overall 38, NIRF Engineering 14 in 2022)",
+          "publisher": "CollegeDunia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2022"
+    },
+    {
+      "year": 2023,
+      "overall": 42,
+      "engineering": 17,
+      "sources": [
+        {
+          "url": "https://collegewollege.com/college/ism-dhanbad-indian-institute-of-technology-iitism-dhanbad-c11721/rankings",
+          "title": "IIT (ISM) Dhanbad Rankings (NIRF Overall #42 of 200, NIRF Engineering #17 of 200 in 2023)",
+          "publisher": "CollegeWollege",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://collegedunia.com/university/25581-ism-dhanbad-indian-institute-of-technology-iitism-dhanbad/ranking",
+          "title": "IIT Dhanbad Ranking - Year-wise National Rankings (NIRF Overall 42, NIRF Engineering 17 in 2023)",
+          "publisher": "CollegeDunia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2023"
+    },
+    {
+      "year": 2024,
+      "overall": 35,
+      "engineering": 15,
+      "sources": [
+        {
+          "url": "https://collegewollege.com/college/ism-dhanbad-indian-institute-of-technology-iitism-dhanbad-c11721/rankings",
+          "title": "IIT (ISM) Dhanbad Rankings (NIRF Overall #35 of 200, NIRF Engineering #15 of 300 in 2024)",
+          "publisher": "CollegeWollege",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://collegedunia.com/university/25581-ism-dhanbad-indian-institute-of-technology-iitism-dhanbad/ranking",
+          "title": "IIT Dhanbad Ranking - Year-wise National Rankings (NIRF Overall 35, NIRF Engineering 15 in 2024)",
+          "publisher": "CollegeDunia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2024"
+    },
+    {
+      "year": 2025,
+      "overall": 35,
+      "engineering": 15,
+      "sources": [
+        {
+          "url": "https://x.com/IITISM_DHANBAD/status/1963624884874936593",
+          "title": "IIT (ISM) Dhanbad official account: ranked 15th in the NIRF 2025 Rankings under the Engineering Category",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        },
+        {
+          "url": "https://vidyamandir.com/studyhub/iit-dhanbad/",
+          "title": "IIT Dhanbad (ISM) Cut Off, Placements, Ranking & Courses (NIRF Engineering 15th, NIRF Overall 35th, 2025)",
+          "publisher": "Vidyamandir Classes",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2025"
+    }
+  ],
+  "qs": [
+    {
+      "year": 2026,
+      "world": null,
+      "asia": 110,
+      "sources": [
+        {
+          "url": "https://www.newsonair.gov.in/iit-ism-dhanbad-ranked-21st-globally-in-mineral-mining-engineering-in-qs-rankings-2026",
+          "title": "IIT (ISM) Dhanbad ranked 21st globally in Mineral & Mining Engineering, QS Rankings 2026 (also 110th, QS World University Rankings Southern Asia 2026)",
+          "publisher": "All India Radio News (Prasar Bharati)",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://www.iituk.org/iit-ism-dhanbad-ranked-21st-globally-in-mineral-mining-engineering-qs-rankings-2026/",
+          "title": "IIT (ISM) Dhanbad Ranked 21st Globally in Mineral & Mining Engineering, QS Rankings 2026 (110th in QS Southern Asia 2026 table)",
+          "publisher": "IIT Alumni UK",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2026"
+    }
+  ],
+  "naac": null
+}

@@ -1,0 +1,116 @@
+{
+  "instituteId": "iit-dharwad",
+  "officialName": "Indian Institute of Technology Dharwad",
+  "short": "IIT Dharwad",
+  "type": "IIT",
+  "established": 2016,
+  "website": "https://www.iitdh.ac.in",
+  "about": "IIT Dharwad is a third-generation Indian Institute of Technology, established in August 2016 under IIT Bombay's mentorship. It began with B.Tech programs in Mechanical, Electrical and Computer Science Engineering and has since grown to ten departments offering B.Tech, BS, BS-MS, M.Sc., M.Tech., M.Tech. by Research and Ph.D. programs. Its 470-acre permanent campus at Chikkamalligawad, inaugurated in 2023, is being developed as a net-zero campus. The institute enrols roughly 1,075 students, about a fifth of them women, drawn from across 20 Indian states and union territories.",
+  "location": {
+    "city": "Dharwad",
+    "state": "Karnataka",
+    "campusAcres": 470,
+    "nearestAirport": "Hubballi Airport",
+    "nearestRailway": "Dharwad Railway Station",
+    "connectivityNote": "The permanent campus sits on the outskirts of the twin cities of Hubballi-Dharwad in north Karnataka, near the Mumbai-Bengaluru highway (NH-4). Hubballi Airport is about 30 minutes away with flights to major Indian cities; Dharwad railway station is roughly 15 km from campus, and Hubballi Junction offers wider connectivity, including direct trains to Bengaluru.",
+    "sources": [
+      {
+        "url": "https://www.iitdh.ac.in/permanent-campus",
+        "title": "Permanent Campus",
+        "publisher": "IIT Dharwad",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitdh.ac.in/how-to-reach",
+        "title": "How to Reach IIT Dharwad",
+        "publisher": "IIT Dharwad",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ]
+  },
+  "admissionRoutes": [
+    {
+      "route": "josaa",
+      "programs": ["B.Tech", "BS"],
+      "note": "B.Tech and BS seats are filled through JoSAA counselling based on the JEE (Advanced) rank; branch change after admission has been discontinued from the 2024-25 academic year onward.",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/jee-advanced",
+          "title": "Information for JEE (Advanced) Qualified Students",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "route": "gate",
+      "programs": ["M.Tech"],
+      "note": "M.Tech admission follows the COAP (Centralized Offer Acceptance Portal) process for GATE-qualified candidates, with institute-specific application windows and, for some programs, interviews.",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/mtech",
+          "title": "M.Tech Admissions",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "route": "own-entrance",
+      "programs": ["Ph.D", "M.Tech by Research"],
+      "note": "PhD and M.Tech by Research candidates apply directly to IIT Dharwad each semester; departments shortlist and interview applicants before admission, with additional rounds held to fill vacant seats.",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/phd",
+          "title": "Ph.D Admissions",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ]
+    },
+    {
+      "route": "other",
+      "programs": ["M.Sc."],
+      "note": "M.Sc. admission is through the Joint Admission Test for Masters (JAM); IIT Dharwad currently offers M.Sc. in Chemistry, Mathematics, Physics and Molecular Medicine through this route.",
+      "sources": [
+        {
+          "url": "https://www.iitdh.ac.in/master-of-science",
+          "title": "M.Sc. Program (2 Years) Admissions",
+          "publisher": "IIT Dharwad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitdh.ac.in/iit-dharwad",
+      "title": "About IIT Dharwad",
+      "publisher": "IIT Dharwad",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/IIT_Dharwad",
+      "title": "IIT Dharwad",
+      "publisher": "Wikipedia",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "secondary"
+    }
+  ],
+  "asOf": null
+}

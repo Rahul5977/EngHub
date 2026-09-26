@@ -1,0 +1,137 @@
+{
+  "instituteId": "iit-bhilai",
+  "officialName": "Indian Institute of Technology Bhilai",
+  "short": "IIT Bhilai",
+  "type": "IIT",
+  "established": 2016,
+  "website": "https://www.iitbhilai.ac.in",
+  "about": "IIT Bhilai is one of six new IITs the central government set up in 2016, mentored at first by IIT Hyderabad before getting its own director in 2017. It taught its earliest batches from a transit campus at Government Engineering College, Raipur, then moved to its own permanent site at Kutelabhata, near Bhilai, Chhattisgarh, in August 2023. Seven B.Tech branches, including a standalone Data Science and Artificial Intelligence programme and Mechatronics, sit alongside science, liberal-arts and emerging-technology departments, with undergraduates admitted mainly through JEE Advanced.",
+  "location": {
+    "city": "Bhilai",
+    "state": "Chhattisgarh",
+    "campusAcres": 445,
+    "nearestAirport": "Swami Vivekananda Airport, Raipur (~54 km)",
+    "nearestRailway": "Durg Junction Railway Station (~5.4 km)",
+    "connectivityNote": "The permanent campus is in Kutelabhata village, about 5 km off the Great Eastern Highway, roughly 5.4 km from Durg Junction - a major stop on the Howrah-Nagpur-Mumbai line - and about 54 km from Raipur's Swami Vivekananda Airport.",
+    "sources": [
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=reach_us",
+        "title": "Contact Us - IIT Bhilai (Durg Railway Station 5.4 km / 15 min; Swami Vivekananda Airport, Raipur 54 km / 1 hr 30 min)",
+        "publisher": "IIT Bhilai",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://www.iitbhilai.ac.in/index.php?pid=aca_ourcampus",
+        "title": "Our Campus - IIT Bhilai (permanent campus at Kutelabhata, 5 km from Great Eastern Highway, 5.4 km from Durg junction, 54 km from Swami Vivekananda Airport)",
+        "publisher": "IIT Bhilai",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+        "title": "Indian Institute of Technology Bhilai - Wikipedia (infobox: campus area 445 acres)",
+        "publisher": "Wikipedia",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "secondary"
+      }
+    ],
+    "asOf": null
+  },
+  "admissionRoutes": [
+    {
+      "route": "josaa",
+      "programs": ["B.Tech"],
+      "note": "Undergraduate seats across the seven B.Tech branches - Computer Science, Data Science and AI, Electrical, Electronics and Communication, Materials Science and Metallurgical, Mechanical, and Mechatronics Engineering - are filled through JEE Advanced rank via JoSAA's central counselling.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_undergraduate",
+          "title": "Undergraduate Admissions - IIT Bhilai (BTech in 7 disciplines; admission through JEE Advanced)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology Bhilai)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-14",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "route": "gate",
+      "programs": ["M.Tech"],
+      "note": "Master's seats across the institute's thirteen M.Tech specialisations are filled mainly on GATE scores, with each department running its own subsequent shortlisting and interview.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=aca_admission",
+          "title": "Admissions - IIT Bhilai (MTech and PhD admissions normally made in the Monsoon semester, department-wise procedure)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "route": "other",
+      "programs": ["M.Sc.", "Ph.D."],
+      "note": "M.Sc. seats in Chemistry, Physics, and Mathematics and Computing fill through the Joint Admission Test for M.Sc. (JAM); Ph.D admission is a rolling, department-wise process with its own application, shortlisting and interview cycle each semester.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_msc",
+          "title": "MSc Admissions - IIT Bhilai (Chemistry, Mathematics and Computing, Physics; admission through JAM)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=adm_phd_new",
+          "title": "PhD Admission at IIT Bhilai (rolling application portal per semester, department-wise shortlisting across BSBME, CY, CSE, DSAI, ECE, EE, LA, MA, MSME, ME, MT, PHY)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitbhilai.ac.in/index.php?pid=admin_aboutiitbh",
+      "title": "About IIT Bhilai (established 2016 by the Ministry of Education in Chhattisgarh; seven B.Tech, 13 MTech, 3 MSc, PhD disciplines)",
+      "publisher": "IIT Bhilai",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bhilai",
+      "title": "Indian Institute of Technology Bhilai - Wikipedia (established 7 August 2016; mentored by IIT Hyderabad; permanent campus occupied August 2023)",
+      "publisher": "Wikipedia",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "secondary"
+    },
+    {
+      "url": "https://www.iitbhilai.ac.in/index.php?pid=IITBhilai_Profile",
+      "title": "Profile of IIT Bhilai (institute brochure: one of 6 new IITs set up in 2016; mentor director Prof. Uday B. Desai of IIT Hyderabad; first classes at transit campus, GEC Raipur)",
+      "publisher": "IIT Bhilai",
+      "accessedOn": "2026-09-16",
+      "asOf": "2017",
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}

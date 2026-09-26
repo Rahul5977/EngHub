@@ -1,0 +1,182 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "years": [
+    {
+      "year": "2025",
+      "avgLpa": 14.98,
+      "medianLpa": 12,
+      "highestLpa": 67.6,
+      "pctPlaced": 90.07,
+      "offers": null,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Reliance Industries Ltd", "sector": "core" },
+        { "name": "D.E. Shaw", "sector": "finance" },
+        { "name": "Oracle", "sector": "software" },
+        { "name": "Zomato", "sector": "software" },
+        { "name": "Bharat Electronics Limited", "sector": "psu" },
+        { "name": "Bharat Petroleum Corporation Limited", "sector": "psu" },
+        { "name": "Hindustan Petroleum Corporation Limited", "sector": "psu" },
+        { "name": "Oil India Limited", "sector": "psu" },
+        { "name": "Engineers India Limited", "sector": "psu" },
+        { "name": "Accenture Japan", "sector": "consulting" },
+        { "name": "Saint Gobain", "sector": "core" },
+        { "name": "Hitachi Energy", "sector": "core" },
+        { "name": "Tata Capital", "sector": "finance" },
+        { "name": "Tiger Analytics", "sector": "analytics" },
+        { "name": "MathWorks", "sector": "software" }
+      ],
+      "branchWise": [
+        { "program": "Computer Science and Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 95.3 },
+        { "program": "Civil Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 88.6 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/placement-2025/",
+          "title": "Highlights of Placement 2025 — B.Tech/Dual Degree/M.Tech average, median and highest CTC, placement percentage, branch-wise rates (data as on 25.07.2025)",
+          "publisher": "IIT Bhubaneswar — Career Development Cell",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        },
+        {
+          "url": "https://www.iitbbs.ac.in/wp-content/uploads/2025/11/IIT-BBS-Placement-Brochure-2025-26.pdf",
+          "title": "Placement Brochure 2025-26 — Prominent Recruiters list",
+          "publisher": "IIT Bhubaneswar — Career Development Cell",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025"
+    },
+    {
+      "year": "2024",
+      "avgLpa": 17.1,
+      "medianLpa": 13.6,
+      "highestLpa": 64,
+      "pctPlaced": 85,
+      "offers": null,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Microsoft", "sector": "software" },
+        { "name": "Reliance Industries Ltd", "sector": "core" },
+        { "name": "Flipkart", "sector": "software" },
+        { "name": "D.E. Shaw", "sector": "finance" },
+        { "name": "Oracle", "sector": "software" },
+        { "name": "Bharat Electronics Limited", "sector": "psu" },
+        { "name": "C-DOT", "sector": "research" },
+        { "name": "Engineers India Limited", "sector": "psu" },
+        { "name": "Bharat Petroleum Corporation Limited", "sector": "psu" },
+        { "name": "Hindustan Petroleum Corporation Limited", "sector": "psu" },
+        { "name": "Oil India Limited", "sector": "psu" },
+        { "name": "Jaguar Land Rover", "sector": "core" },
+        { "name": "Analog Devices", "sector": "core" },
+        { "name": "MathWorks", "sector": "software" },
+        { "name": "Maruti Suzuki", "sector": "core" }
+      ],
+      "branchWise": [
+        { "program": "Computer Science and Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 92.4 },
+        { "program": "Mechanical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 94.3 },
+        { "program": "Civil Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 67.8 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/placement-2024/",
+          "title": "Highlights of Placement 2024 — B.Tech registration, participation, placement rate, average/median/highest/lowest CTC, branch-wise rates (data as on 15.07.2024)",
+          "publisher": "IIT Bhubaneswar — Career Development Cell",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2024"
+    },
+    {
+      "year": "2023",
+      "avgLpa": 17.7,
+      "medianLpa": 15.8,
+      "highestLpa": 55.75,
+      "pctPlaced": 88.6,
+      "offers": null,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Microsoft", "sector": "software" },
+        { "name": "Amazon", "sector": "software" },
+        { "name": "Goldman Sachs", "sector": "finance" },
+        { "name": "Flipkart", "sector": "software" },
+        { "name": "D.E. Shaw", "sector": "finance" },
+        { "name": "Oracle", "sector": "software" },
+        { "name": "Oil India Limited", "sector": "psu" },
+        { "name": "Bharat Electronics Limited", "sector": "psu" },
+        { "name": "C-DOT", "sector": "research" },
+        { "name": "C-DAC", "sector": "research" },
+        { "name": "GAIL", "sector": "psu" },
+        { "name": "NTPC", "sector": "psu" },
+        { "name": "MathWorks", "sector": "software" },
+        { "name": "Maruti Suzuki", "sector": "core" }
+      ],
+      "branchWise": [
+        { "program": "Computer Science and Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 100 },
+        { "program": "Electronics and Communication Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 91 },
+        { "program": "Electrical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 94.7 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/placement-2023/",
+          "title": "Highlights of Placement 2023 — B.Tech & Dual Degree registration, participation, placement rate, average/median/highest/lowest CTC, branch-wise rates",
+          "publisher": "IIT Bhubaneswar — Career Development Cell",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2023"
+    },
+    {
+      "year": "2022",
+      "avgLpa": 18.91,
+      "medianLpa": 15,
+      "highestLpa": 44.1,
+      "pctPlaced": null,
+      "offers": 294,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Amazon", "sector": "software" },
+        { "name": "Goldman Sachs", "sector": "finance" },
+        { "name": "GE India", "sector": "core" },
+        { "name": "Flipkart", "sector": "software" },
+        { "name": "Adobe", "sector": "software" },
+        { "name": "Qualcomm", "sector": "core" },
+        { "name": "TCS R&D", "sector": "software" },
+        { "name": "Samsung", "sector": "software" },
+        { "name": "D.E. Shaw", "sector": "finance" },
+        { "name": "L&T", "sector": "core" },
+        { "name": "Tata Steel", "sector": "core" },
+        { "name": "Oil India Limited", "sector": "psu" },
+        { "name": "Bharat Electronics Limited", "sector": "psu" },
+        { "name": "GAIL", "sector": "psu" }
+      ],
+      "branchWise": null,
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/index.php/home/placement-2022/",
+          "title": "Highlights of Placement 2022 — B.Tech & Dual Degree offers received, placement percentage (over 94%), average/median/highest/lowest CTC",
+          "publisher": "IIT Bhubaneswar — Career Development Cell",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2022"
+    }
+  ]
+}

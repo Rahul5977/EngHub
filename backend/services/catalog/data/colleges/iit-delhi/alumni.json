@@ -1,0 +1,285 @@
+{
+  "instituteId": "iit-delhi",
+  "notable": [
+    {
+      "name": "Vinod Khosla",
+      "knownFor": "Co-founder, Sun Microsystems; founder, Khosla Ventures",
+      "program": "B.Tech Electrical Engineering",
+      "batch": 1976,
+      "asOf": "1976",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Rajat Gupta",
+      "knownFor": "Former Managing Director, McKinsey & Company",
+      "program": "B.Tech Mechanical Engineering",
+      "batch": 1971,
+      "asOf": "1971",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Raghuram Rajan",
+      "knownFor": "Economist; 23rd Governor, Reserve Bank of India",
+      "program": "B.Tech Electrical Engineering",
+      "batch": 1985,
+      "asOf": "1985",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Raghuram_Rajan",
+          "title": "Raghuram Rajan",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Binny Bansal",
+      "knownFor": "Co-founder, Flipkart",
+      "program": "B.Tech Computer Science",
+      "batch": 2005,
+      "asOf": "2005",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Sachin Bansal",
+      "knownFor": "Co-founder, Flipkart",
+      "program": "B.Tech Computer Science",
+      "batch": 2005,
+      "asOf": "2005",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Jyoti Bansal",
+      "knownFor": "Founder, AppDynamics",
+      "program": "B.Tech Computer Science",
+      "batch": 1999,
+      "asOf": "1999",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Anurag Dikshit",
+      "knownFor": "Co-founder, PartyGaming",
+      "program": "B.Tech Computer Science",
+      "batch": 1994,
+      "asOf": "1994",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Padmasree Warrior",
+      "knownFor": "Former CTO, Cisco Systems and Motorola",
+      "program": "B.Tech Chemical Engineering",
+      "batch": 1982,
+      "asOf": "1982",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Madhu Sudan",
+      "knownFor": "Computer scientist; Nevanlinna Prize winner, Harvard professor",
+      "program": "B.Tech Computer Science",
+      "batch": 1987,
+      "asOf": "1987",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Shrinivas Kulkarni",
+      "knownFor": "Astronomer, Caltech professor",
+      "program": "M.Sc. Physics",
+      "batch": 1978,
+      "asOf": "1978",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Chetan Bhagat",
+      "knownFor": "Novelist and columnist",
+      "program": "B.Tech Mechanical Engineering",
+      "batch": 1995,
+      "asOf": "1995",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Kiran Bedi",
+      "knownFor": "First woman IPS officer; former Lieutenant Governor of Puducherry",
+      "program": "Ph.D.",
+      "batch": 1993,
+      "asOf": "1993",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Jayant Sinha",
+      "knownFor": "Former Union Minister of State for Finance and Civil Aviation",
+      "program": null,
+      "batch": 1985,
+      "asOf": "1985",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Deepinder Goyal",
+      "knownFor": "Co-founder and CEO, Zomato (Eternal Ltd.)",
+      "program": null,
+      "batch": null,
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Delhi",
+          "title": "Indian Institute of Technology Delhi",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Subir Sachdev",
+      "knownFor": "Physicist, Harvard professor",
+      "program": "B.Tech",
+      "batch": null,
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    },
+    {
+      "name": "Amol Parashar",
+      "knownFor": "Actor",
+      "program": "B.Tech Mechanical Engineering",
+      "batch": null,
+      "asOf": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Indian_Institute_of_Technology_Delhi_people",
+          "title": "List of Indian Institute of Technology Delhi people",
+          "publisher": "Wikipedia",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "secondary"
+        }
+      ]
+    }
+  ]
+}

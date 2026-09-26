@@ -1,0 +1,112 @@
+{
+  "instituteId": "iit-bhu-varanasi",
+  "nirf": [
+    {
+      "year": 2023,
+      "overall": 31,
+      "engineering": 15,
+      "sources": [
+        {
+          "url": "https://collegedunia.com/university/25947-iit-bhu-indian-institute-of-technology-varanasi/ranking",
+          "title": "IIT BHU Ranking — NIRF year-wise rankings",
+          "publisher": "Collegedunia",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        },
+        {
+          "url": "https://www.shiksha.com/college/indian-institute-of-technology-bhu-varanasi-3011/ranking",
+          "title": "IIT (BHU) Varanasi — Ranking",
+          "publisher": "Shiksha",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023",
+          "confidence": "secondary"
+        }
+      ],
+      "asOf": "2023"
+    },
+    {
+      "year": 2024,
+      "overall": 30,
+      "engineering": 10,
+      "sources": [
+        {
+          "url": "https://www.iitbhu.ac.in/nirf",
+          "title": "IIT(BHU) — NIRF",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2024"
+    },
+    {
+      "year": 2025,
+      "overall": 31,
+      "engineering": 10,
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi/status/1963583747464241594",
+          "title": "IIT (BHU), Varanasi — NIRF 2025 Rankings announcement",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025"
+    }
+  ],
+  "qs": [
+    {
+      "year": 2025,
+      "world": 531,
+      "asia": null,
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi/status/1798645274308726893",
+          "title": "IIT (BHU), Varanasi — QS World University Ranking 2025 announcement",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025"
+    },
+    {
+      "year": 2026,
+      "world": 566,
+      "asia": null,
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi/status/2067796966395068487",
+          "title": "IIT (BHU), Varanasi — QS World University Rankings 2027 announcement (states the 2026 rank it climbed from)",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2027",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "year": 2027,
+      "world": 510,
+      "asia": null,
+      "sources": [
+        {
+          "url": "https://x.com/IITBHU_Varanasi/status/2067796966395068487",
+          "title": "IIT (BHU), Varanasi — QS World University Rankings 2027 announcement",
+          "publisher": "IIT (BHU) Varanasi",
+          "accessedOn": "2026-09-16",
+          "asOf": "2027",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2027"
+    }
+  ],
+  "naac": null
+}

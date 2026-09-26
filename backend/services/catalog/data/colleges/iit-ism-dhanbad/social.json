@@ -1,0 +1,106 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "official": [
+    {
+      "platform": "x",
+      "handle": "IITISM_DHANBAD",
+      "url": "https://x.com/IITISM_DHANBAD",
+      "owner": "Institute",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/", "title": "IIT (ISM) Dhanbad (official website footer)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "iitism",
+      "url": "https://www.linkedin.com/school/iitism/",
+      "owner": "Institute",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/", "title": "IIT (ISM) Dhanbad (official website footer)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "iit.ism",
+      "url": "https://www.instagram.com/iit.ism/",
+      "owner": "Institute",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/", "title": "IIT (ISM) Dhanbad (official website footer)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "facebook",
+      "handle": "IITISMDHNB",
+      "url": "https://www.facebook.com/IITISMDHNB/",
+      "owner": "Institute",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/", "title": "IIT (ISM) Dhanbad (official website footer)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "youtube",
+      "handle": "UCt9UKgRsW3EMM9eCrERTTAA",
+      "url": "https://www.youtube.com/channel/UCt9UKgRsW3EMM9eCrERTTAA",
+      "owner": "Institute",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/", "title": "IIT (ISM) Dhanbad (official website footer)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "concetto.iitism",
+      "url": "https://www.instagram.com/concetto.iitism/",
+      "owner": "Concetto (Tech Fest)",
+      "sources": [
+        { "url": "https://www.concetto.in/", "title": "Concetto - IIT (ISM) Dhanbad Tech Fest", "publisher": "Concetto (IIT ISM Dhanbad)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "linkedin",
+      "handle": "concetto-iitism-dhanbad",
+      "url": "https://www.linkedin.com/company/concetto-iitism-dhanbad/",
+      "owner": "Concetto (Tech Fest)",
+      "sources": [
+        { "url": "https://www.concetto.in/", "title": "Concetto - IIT (ISM) Dhanbad Tech Fest", "publisher": "Concetto (IIT ISM Dhanbad)", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "ecell_iitism",
+      "url": "https://www.instagram.com/ecell_iitism/",
+      "owner": "E-Cell",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "mechismuracing",
+      "url": "https://www.instagram.com/mechismuracing/",
+      "owner": "Electric Mobility Club (MechISM Racing)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    },
+    {
+      "platform": "instagram",
+      "handle": "arka_iit_ism",
+      "url": "https://www.instagram.com/arka_iit_ism/",
+      "owner": "Aeronautics and Space Technology Club (ARKA)",
+      "sources": [
+        { "url": "https://www.iitism.ac.in/student-zone-diie", "title": "Student Zone - DIIE (Tech Clubs)", "publisher": "IIT (ISM) Dhanbad", "accessedOn": "2026-09-16", "asOf": null, "confidence": "official" }
+      ],
+      "asOf": null
+    }
+  ],
+  "creators": []
+}

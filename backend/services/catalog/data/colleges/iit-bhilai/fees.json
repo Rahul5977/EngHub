@@ -1,0 +1,124 @@
+{
+  "instituteId": "iit-bhilai",
+  "years": [
+    {
+      "year": "2026-27",
+      "program": null,
+      "tuition": 200000,
+      "hostel": 35950,
+      "mess": 43090,
+      "other": 26500,
+      "totalYear": 305540,
+      "currency": "INR",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=Fee_BTech24",
+          "title": "BTech Fee Structure for AY 2026-27",
+          "publisher": "IIT Bhilai - Office of the Assistant Registrar (Students' Affairs)",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026-27",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026-27"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Merit-cum-Means (MCM) Scholarship",
+      "eligibility": "Open to General/OBC-category BTech students with combined parental income under Rs 5 lakh (General) or Rs 6 lakh (OBC); merit is judged by JEE rank in semester one and by CGPA (6.0+, no F grade) afterward. Capped at 25% of each batch.",
+      "benefit": "Tuition is waived in full for income under Rs 1 lakh, with Rs 1,000/month pocket money for 10 months; the Rs 1-5 lakh band gets a two-thirds waiver plus the same stipend; the OBC Rs 5-6 lakh band gets only the full waiver.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_awards",
+          "title": "Institute Scholarships",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Institute SC/ST Scholarship",
+      "eligibility": "Open to SC/ST-category BTech students with combined parental income up to Rs 4.5 lakh; merit is judged by JEE rank in the first semester and by CGPA (6.0+, no F grade) in later semesters.",
+      "benefit": "Basic mess and hostel boarding charges are reimbursed in full, plus a pocket-money stipend of Rs 250 per month.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_awards",
+          "title": "Institute Scholarships",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Institute Free Studentship (IFS)",
+      "eligibility": "Open to General/OBC BTech students under the same income bands and merit rule as the MCM award (up to Rs 5 lakh General, Rs 6 lakh OBC); limited to 10% of each admitted batch.",
+      "benefit": "Only the tuition fee is waived, on the same income-tiered scale as MCM (up to two-thirds for the Rs 1-5 lakh band); it carries no monthly stipend.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_awards",
+          "title": "Institute Scholarships",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "Institute Fellowship for PG Students",
+      "eligibility": "Open to non-sponsored M.Tech admits holding a valid GATE score, and to PhD scholars who receive an institute fellowship offer; recipients must be campus-resident in any funded semester.",
+      "benefit": "M.Tech scholars draw the fellowship for up to 21 months; PhD scholars draw it for 4 years, extendable a 5th year on a positive department review, against 8 hours/week of assigned academic or admin work.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=institute_awards",
+          "title": "Institute Scholarships",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    },
+    {
+      "name": "GeetAmal Ghosh-Roy Award",
+      "eligibility": "A single first-year BTech student whose combined parental income is Rs 4.5 lakh or less; donor-funded by Dr. Rana Ghosh-Roy from the 2018-19 session onward.",
+      "benefit": "A one-time cash award of Rs 50,000, paid to the recipient in two installments.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=donor_award",
+          "title": "Donor Scholarships and Awards",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": "2018-19",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2018-19"
+    },
+    {
+      "name": "P.K Jain Memorial Award",
+      "eligibility": "A BTech student who has completed at least four semesters and has made a notable contribution to the institute's advancement; donor-funded by Smt. Sharda Jain from the 2018-19 session onward.",
+      "benefit": "A cash prize of Rs 50,000 together with a gold-plated silver medal.",
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=donor_award",
+          "title": "Donor Scholarships and Awards",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": "2018-19",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2018-19"
+    }
+  ]
+}

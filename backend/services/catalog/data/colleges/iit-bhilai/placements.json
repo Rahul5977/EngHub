@@ -1,0 +1,164 @@
+{
+  "instituteId": "iit-bhilai",
+  "years": [
+    {
+      "year": "2025-26",
+      "avgLpa": 14.53,
+      "medianLpa": null,
+      "highestLpa": null,
+      "pctPlaced": null,
+      "offers": 133,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Tata Consultancy Services", "sector": "software" },
+        { "name": "Infosys", "sector": "software" },
+        { "name": "Accenture", "sector": "consulting" },
+        { "name": "HP", "sector": "software" },
+        { "name": "Warner Bros Discovery", "sector": "other" },
+        { "name": "Larsen & Toubro", "sector": "core" },
+        { "name": "Applied Materials", "sector": "core" },
+        { "name": "Schneider Electric", "sector": "core" },
+        { "name": "D E Shaw & Co", "sector": "finance" },
+        { "name": "LTIMindtree", "sector": "software" },
+        { "name": "HCL", "sector": "software" },
+        { "name": "ZS", "sector": "analytics" },
+        { "name": "Capgemini", "sector": "software" },
+        { "name": "Cognizant", "sector": "software" },
+        { "name": "ICICI Bank", "sector": "finance" },
+        { "name": "Mahindra", "sector": "core" },
+        { "name": "Wockhardt", "sector": "core" },
+        { "name": "Sonata Software", "sector": "software" },
+        { "name": "EPAM", "sector": "software" },
+        { "name": "Turing", "sector": "software" },
+        { "name": "CAMS", "sector": "finance" },
+        { "name": "Skyroot Aerospace", "sector": "startup" },
+        { "name": "Publicis Sapient", "sector": "consulting" },
+        { "name": "Increff", "sector": "startup" },
+        { "name": "Merkle", "sector": "analytics" },
+        { "name": "Winjit", "sector": "software" },
+        { "name": "GlobalLogic", "sector": "software" },
+        { "name": "Sopra Banking Software", "sector": "software" },
+        { "name": "Tredence", "sector": "analytics" }
+      ],
+      "branchWise": null,
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=placement_brochure",
+          "title": "Placement Brochure 2026-27",
+          "publisher": "IIT Bhilai - Centre for Career Planning and Services",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "year": "2024-25",
+      "avgLpa": 13.28,
+      "medianLpa": 11.4,
+      "highestLpa": null,
+      "pctPlaced": 73.54,
+      "offers": 152,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [
+        { "name": "Google", "sector": "software" },
+        { "name": "Amazon", "sector": "software" },
+        { "name": "Infosys Ltd", "sector": "software" },
+        { "name": "Tata Consultancy Services", "sector": "software" },
+        { "name": "D. E. Shaw India", "sector": "finance" },
+        { "name": "Applied Materials", "sector": "core" },
+        { "name": "HPCL", "sector": "psu" },
+        { "name": "Larsen and Toubro", "sector": "core" },
+        { "name": "Schneider Electric", "sector": "core" },
+        { "name": "ICICI Bank", "sector": "finance" },
+        { "name": "Capgemini", "sector": "software" },
+        { "name": "AMD India Pvt Ltd", "sector": "core" },
+        { "name": "LTIMindtree", "sector": "software" },
+        { "name": "Cognizant Technology Solutions", "sector": "software" },
+        { "name": "Warner Bros Discovery", "sector": "other" },
+        { "name": "MECON Limited", "sector": "psu" },
+        { "name": "Accenture Japan Ltd", "sector": "consulting" },
+        { "name": "GlobalLogic", "sector": "software" },
+        { "name": "EPAM Systems India", "sector": "software" },
+        { "name": "Publicis Sapient", "sector": "consulting" }
+      ],
+      "branchWise": [
+        { "program": "B.Tech Computer Science and Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 77.27 },
+        { "program": "B.Tech Data Science and Artificial Intelligence", "avgLpa": null, "medianLpa": null, "pctPlaced": 90 },
+        { "program": "B.Tech Electrical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 73.17 },
+        { "program": "B.Tech Mechanical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 80 },
+        { "program": "B.Tech Bioengineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 60 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=PlacementReport2024_2025",
+          "title": "Placement Report 2024-2025 — Centre for Career Planning and Services, IIT Bhilai (campus placement statistics, salary statistics, recruiter list)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": "2024-25",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2024-25"
+    },
+    {
+      "year": "2023-24",
+      "avgLpa": 12.51,
+      "medianLpa": 11,
+      "highestLpa": null,
+      "pctPlaced": 70,
+      "offers": 115,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [],
+      "branchWise": [
+        { "program": "B.Tech Computer Science and Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 84.09 },
+        { "program": "B.Tech Data Science and Artificial Intelligence", "avgLpa": null, "medianLpa": null, "pctPlaced": 93.75 },
+        { "program": "B.Tech Electrical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 50 },
+        { "program": "B.Tech Mechanical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 73.08 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=PlacementReport2023_2024",
+          "title": "Placement Report 2023-2024 — Centre for Career Planning and Services, IIT Bhilai (campus placement statistics, salary statistics)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023-24",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2023-24"
+    },
+    {
+      "year": "2022-23",
+      "avgLpa": 14.48,
+      "medianLpa": 14.7,
+      "highestLpa": null,
+      "pctPlaced": 86.86,
+      "offers": 132,
+      "ppos": null,
+      "higherStudiesPct": null,
+      "topRecruiters": [],
+      "branchWise": [
+        { "program": "B.Tech Computer Science and Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 79.55 },
+        { "program": "B.Tech Electrical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 91.89 },
+        { "program": "B.Tech Mechanical Engineering", "avgLpa": null, "medianLpa": null, "pctPlaced": 87.5 }
+      ],
+      "sources": [
+        {
+          "url": "https://www.iitbhilai.ac.in/index.php?pid=PlacementReport2022_2023",
+          "title": "Placement Report 2022-2023 — Centre for Career Planning and Services, IIT Bhilai (campus placement statistics, salary statistics)",
+          "publisher": "IIT Bhilai",
+          "accessedOn": "2026-09-16",
+          "asOf": "2022-23",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2022-23"
+    }
+  ]
+}

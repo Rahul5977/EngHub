@@ -1,0 +1,81 @@
+{
+  "instituteId": "iit-bhubaneswar",
+  "years": [
+    {
+      "year": "2025-26",
+      "program": null,
+      "tuition": 200000,
+      "hostel": 19000,
+      "mess": 36000,
+      "other": 21690,
+      "totalYear": 276690,
+      "currency": "INR",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/wp-content/uploads/2025/06/Fee_Structure_BTech_2025-26.pdf",
+          "title": "Fee Structure applicable for B.Tech. students taking admission starting from Academic Year 2025-26 & onwards (steady-state annual total, Spring + Autumn semester fee, excluding first-year one-time admission and refundable caution money)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "year": "2023-24",
+      "program": null,
+      "tuition": 200000,
+      "hostel": 17000,
+      "mess": 36000,
+      "other": 15390,
+      "totalYear": 268390,
+      "currency": "INR",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/wp-content/uploads/2023/11/FeeStructurBTecDualDegree2023-24-1.pdf",
+          "title": "Fee Structure applicable for B.Tech. & Dual Degree students taking admission starting from Academic Year 2023-24 & onwards (steady-state annual total, Spring + Autumn semester fee, excluding first-year one-time admission and refundable caution money)",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2023-24",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2023-24"
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "SC/ST/PwD Tuition Fee Waiver",
+      "eligibility": "All regular SC, ST and PwD-category B.Tech and Dual Degree students admitted at IIT Bhubaneswar.",
+      "benefit": "Full waiver of the semester tuition fee (Rs 1,00,000 per semester); other semester dues such as hostel, mess and amenity charges still apply as for other students.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/wp-content/uploads/2025/06/Fee_Structure_BTech_2025-26.pdf",
+          "title": "Fee Structure for B.Tech. students, AY 2025-26 onwards — footnote on 100% tuition waiver for SC/ST/PwD students",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    },
+    {
+      "name": "Family-Income-Based Tuition Fee Remission",
+      "eligibility": "GEN/EWS/OBC B.Tech and Dual Degree students whose family income is verified at or below Rs 5 lakh a year at the time of admission.",
+      "benefit": "Full waiver of the tuition fee for families earning under Rs 1 lakh a year; families earning between Rs 1-5 lakh a year get a two-thirds remission of the tuition fee.",
+      "sources": [
+        {
+          "url": "https://www.iitbbs.ac.in/wp-content/uploads/2025/06/Fee_Structure_BTech_2025-26.pdf",
+          "title": "Fee Structure for B.Tech. students, AY 2025-26 onwards — footnote on income-slab tuition remission",
+          "publisher": "IIT Bhubaneswar",
+          "accessedOn": "2026-09-16",
+          "asOf": "2025-26",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2025-26"
+    }
+  ]
+}

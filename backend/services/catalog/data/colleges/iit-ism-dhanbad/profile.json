@@ -1,0 +1,113 @@
+{
+  "instituteId": "iit-ism-dhanbad",
+  "officialName": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+  "short": "IIT (ISM) Dhanbad",
+  "type": "IIT",
+  "established": 1926,
+  "website": "https://www.iitism.ac.in",
+  "about": "Indian Institute of Technology (Indian School of Mines) Dhanbad traces its roots to 1926, when the British government founded the Indian School of Mines to train mining and geology professionals; it earned deemed-university status in 1967 and became an IIT in 2016. It remains the only IIT with full-fledged mining, petroleum, applied geology and geophysics departments alongside the usual engineering and science disciplines. The Dhanbad campus sits in India's coal belt, and the institute pairs its earth-science legacy with newer programmes in computing, electronics and management.",
+  "location": {
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "campusAcres": 393,
+    "nearestAirport": null,
+    "nearestRailway": null,
+    "connectivityNote": null,
+    "sources": [
+      {
+        "url": "https://www.iitism.ac.in/about-overview",
+        "title": "About IIT (ISM) Dhanbad - Overview (campus 393 acres: 218 developed, 175 under development; 260 km from Kolkata)",
+        "publisher": "IIT (ISM) Dhanbad",
+        "accessedOn": "2026-09-16",
+        "asOf": null,
+        "confidence": "official"
+      }
+    ],
+    "asOf": null
+  },
+  "admissionRoutes": [
+    {
+      "route": "josaa",
+      "programs": ["B.Tech", "BS-MS (Integrated)", "B.Tech + MBA (Dual Degree)"],
+      "note": "Undergraduate seats across B.Tech, the integrated BS-MS programmes and the B.Tech+MBA dual degree are filled through JEE Advanced rank via JoSAA's central counselling.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/jeea",
+          "title": "JEE (Advanced) / UG Admissions - IIT (ISM) Dhanbad (JEE Advanced + JoSAA seat allocation; 18 UG programmes)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        },
+        {
+          "url": "https://josaa.admissions.nic.in/applicant/seatmatrix/seatmatrixinfo.aspx",
+          "title": "JoSAA 2026 Seat Matrix - Seat Information (Indian Institute of Technology)",
+          "publisher": "JoSAA",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "route": "gate",
+      "programs": ["M.Tech"],
+      "note": "M.Tech admission runs on GATE scores through COAP counselling, alongside the institute's own M.Tech admission portal for eligibility and fee steps.",
+      "sources": [
+        {
+          "url": "https://admissions.iitism.ac.in/mtech/index.php/admission",
+          "title": "M.Tech Admission portal - IIT (ISM) Dhanbad (How to Apply, Program Eligibility, COAP Counselling, Seat Matrix)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": "2026",
+          "confidence": "official"
+        }
+      ],
+      "asOf": "2026"
+    },
+    {
+      "route": "other",
+      "programs": ["PhD"],
+      "note": "PhD admission stays open year-round through the institute's own selection process, with regular institute-assistantship, externally-funded-fellowship and part-time working-professional tracks; a separate special drive covers reserved categories.",
+      "sources": [
+        {
+          "url": "https://www.iitism.ac.in/phdadmission",
+          "title": "PhD Admission - IIT (ISM) Dhanbad (Regular/IA, Externally Funded, Part Time and Special Admission Drive modes)",
+          "publisher": "IIT (ISM) Dhanbad",
+          "accessedOn": "2026-09-16",
+          "asOf": null,
+          "confidence": "official"
+        }
+      ],
+      "asOf": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.iitism.ac.in/about-history",
+      "title": "History - IIT (ISM) Dhanbad (inaugurated 1926 by Lord Irwin; deemed university 1967; IIT status 2016)",
+      "publisher": "IIT (ISM) Dhanbad",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitism.ac.in/about-overview",
+      "title": "About IIT (ISM) Dhanbad - Overview",
+      "publisher": "IIT (ISM) Dhanbad",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    },
+    {
+      "url": "https://www.iitism.ac.in/vision",
+      "title": "Vision & Mission - IIT (ISM) Dhanbad",
+      "publisher": "IIT (ISM) Dhanbad",
+      "accessedOn": "2026-09-16",
+      "asOf": null,
+      "confidence": "official"
+    }
+  ],
+  "asOf": null
+}
